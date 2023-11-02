@@ -1,0 +1,933 @@
+[
+    {
+        "Pacote": "Acidentes de Tr\u00e2nsito - Acidentes",
+        "Organiza\u00e7\u00e3o": "EPTC",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Dados referentes \u00e0 mobilidade urbana.\r\n\r\n- Acidentes;\r\n- Paradas de \u00f4nibus;\r\n- Linhas de \u00f4nibus e lota\u00e7\u00e3o;\r\n- Tabelas hor\u00e1rias (\u00f4nibus e lota\u00e7\u00e3o);\r\n- BikePOA;\r\n- Pontos de T\u00e1xi;\r\n- Ciclovias e Ciclofaixas.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125202.568112icone-grupo-mobilidade.png",
+                "title": "Mobilidade",
+                "id": "4e57cf8e-925c-4147-bafc-f9d9b5d55cf2",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Acidentes de Tr\u00e2nsito - V\u00edtimas",
+        "Organiza\u00e7\u00e3o": "EPTC",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Dados referentes \u00e0 mobilidade urbana.\r\n\r\n- Acidentes;\r\n- Paradas de \u00f4nibus;\r\n- Linhas de \u00f4nibus e lota\u00e7\u00e3o;\r\n- Tabelas hor\u00e1rias (\u00f4nibus e lota\u00e7\u00e3o);\r\n- BikePOA;\r\n- Pontos de T\u00e1xi;\r\n- Ciclovias e Ciclofaixas.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125202.568112icone-grupo-mobilidade.png",
+                "title": "Mobilidade",
+                "id": "4e57cf8e-925c-4147-bafc-f9d9b5d55cf2",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "\u00c1reas de Preserva\u00e7\u00e3o Permanente (APP)",
+        "Organiza\u00e7\u00e3o": "Secretaria do Meio Ambiente e da Sustentabilidade",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente e Urbanismo",
+                "description": "Dados referentes ao sistema ambiental da cidade.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125146.603660icone-grupo-meioambiente.png",
+                "title": "Meio Ambiente e Urbanismo",
+                "id": "0f9f39de-3755-4ca9-917c-2d4f1c98e2de",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "ZIP"
+        ]
+    },
+    {
+        "Pacote": "\u00c1reas Especiais de Interesse Social - AEIS",
+        "Organiza\u00e7\u00e3o": "Secretaria do Meio Ambiente e da Sustentabilidade",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente e Urbanismo",
+                "description": "Dados referentes ao sistema ambiental da cidade.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125146.603660icone-grupo-meioambiente.png",
+                "title": "Meio Ambiente e Urbanismo",
+                "id": "0f9f39de-3755-4ca9-917c-2d4f1c98e2de",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "ZIP"
+        ]
+    },
+    {
+        "Pacote": "Atestado de Funcionamento",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Rela\u00e7\u00f5es Institucionais",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Autos de infra\u00e7\u00e3o \u2013 C\u00f3digo Municipal de Limpeza Urbana",
+        "Organiza\u00e7\u00e3o": "Departamento Municipal de Limpeza Urbana",
+        "Grupos": [
+            {
+                "display_name": "Servi\u00e7os Urbanos",
+                "description": "Dados relacionados a servi\u00e7os de infraestrutura, limpeza e manuten\u00e7\u00e3o do munic\u00edpio.",
+                "title": "Servi\u00e7os Urbanos",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125217.693845icone-grupo-servicosurbanos.png",
+                "id": "ec1f481b-fe18-450f-9691-c2f56cb31896",
+                "name": "servicos-urbanos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Bairros (LC 12.112/16)",
+        "Organiza\u00e7\u00e3o": "Secretaria do Meio Ambiente e da Sustentabilidade",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente e Urbanismo",
+                "description": "Dados referentes ao sistema ambiental da cidade.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125146.603660icone-grupo-meioambiente.png",
+                "title": "Meio Ambiente e Urbanismo",
+                "id": "0f9f39de-3755-4ca9-917c-2d4f1c98e2de",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "ZIP"
+        ]
+    },
+    {
+        "Pacote": "Balancete de Verifica\u00e7\u00e3o - PROCEMPA",
+        "Organiza\u00e7\u00e3o": "PROCEMPA",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Cadastro de Alvar\u00e1s",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal do Desenvolvimento Econ\u00f4mico",
+        "Grupos": [
+            {
+                "display_name": "Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os",
+                "description": "",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2019-09-30-105053.690387indcom-icon.png",
+                "title": "Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os",
+                "id": "73dba3d3-3c2c-47ac-acbf-4405b651f4b2",
+                "name": "ind-e-comercio"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Coleta Domiciliar",
+        "Organiza\u00e7\u00e3o": "Departamento Municipal de Limpeza Urbana",
+        "Grupos": [
+            {
+                "display_name": "Servi\u00e7os Urbanos",
+                "description": "Dados relacionados a servi\u00e7os de infraestrutura, limpeza e manuten\u00e7\u00e3o do munic\u00edpio.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125217.693845icone-grupo-servicosurbanos.png",
+                "title": "Servi\u00e7os Urbanos",
+                "id": "ec1f481b-fe18-450f-9691-c2f56cb31896",
+                "name": "servicos-urbanos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Coleta Seletiva",
+        "Organiza\u00e7\u00e3o": "Departamento Municipal de Limpeza Urbana",
+        "Grupos": [
+            {
+                "display_name": "Servi\u00e7os Urbanos",
+                "description": "Dados relacionados a servi\u00e7os de infraestrutura, limpeza e manuten\u00e7\u00e3o do munic\u00edpio.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125217.693845icone-grupo-servicosurbanos.png",
+                "title": "Servi\u00e7os Urbanos",
+                "id": "ec1f481b-fe18-450f-9691-c2f56cb31896",
+                "name": "servicos-urbanos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Despesas",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal da Fazenda",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Eixos de Logradouros",
+        "Organiza\u00e7\u00e3o": "Secretaria do Meio Ambiente e da Sustentabilidade",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente e Urbanismo",
+                "description": "Dados referentes ao sistema ambiental da cidade.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125146.603660icone-grupo-meioambiente.png",
+                "title": "Meio Ambiente e Urbanismo",
+                "id": "0f9f39de-3755-4ca9-917c-2d4f1c98e2de",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "ZIP"
+        ]
+    },
+    {
+        "Pacote": "e-SIC",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Transpar\u00eancia e Controladoria",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Esta\u00e7\u00f5es R\u00e1dio Base (ERB's)",
+        "Organiza\u00e7\u00e3o": "Secretaria do Meio Ambiente e da Sustentabilidade",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente e Urbanismo",
+                "description": "Dados referentes ao sistema ambiental da cidade.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125146.603660icone-grupo-meioambiente.png",
+                "title": "Meio Ambiente e Urbanismo",
+                "id": "0f9f39de-3755-4ca9-917c-2d4f1c98e2de",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "ZIP"
+        ]
+    },
+    {
+        "Pacote": "Execu\u00e7\u00e3o dos Fundos de Cultura",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal da Cultura",
+        "Grupos": [
+            {
+                "display_name": "Cultura e Turismo",
+                "description": "Dados referentes aos setores de cultura e turismo da cidade de Porto Alegre.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2019-09-30-105018.424934cultturism-icon.png",
+                "title": "Cultura e Turismo",
+                "id": "972cdc0d-ea94-4d42-86c5-8c486499db73",
+                "name": "cultura-e-turismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Execu\u00e7\u00e3o or\u00e7ament\u00e1ria das capitais na Fun\u00e7\u00e3o Cultura e subfun\u00e7\u00f5es",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal da Cultura",
+        "Grupos": [
+            {
+                "display_name": "Cultura e Turismo",
+                "description": "Dados referentes aos setores de cultura e turismo da cidade de Porto Alegre.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2019-09-30-105018.424934cultturism-icon.png",
+                "title": "Cultura e Turismo",
+                "id": "972cdc0d-ea94-4d42-86c5-8c486499db73",
+                "name": "cultura-e-turismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Folha de Pagamento dos Inativos e Pensionistas do RPPS",
+        "Organiza\u00e7\u00e3o": "PREVIMPA",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Folha de pagamento Procempa",
+        "Organiza\u00e7\u00e3o": "PROCEMPA",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Folha de Pagamento - Servidores Ativos",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Planejamento e Gest\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Frota Locada",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Planejamento e Gest\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "GERCON - Gerenciamento de Consultas",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Dados referentes \u00e0 sa\u00fade p\u00fablica da cidade de Porto Alegre.\r\n \r\n- Endere\u00e7o das Unidade de Sa\u00fade da Fam\u00edlia;\r\n- Unidades B\u00e1sicas de Sa\u00fade;\r\n- Mortalidade e Nascidos Vivos;\r\n- Unidades de Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade (por endere\u00e7o de resid\u00eancia do cidad\u00e3o);\r\n- Censo IBGE 2010 (por Unidades de Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade, por distrito sanit\u00e1rio e por ger\u00eancia distrital de sa\u00fade).",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125233.525978icone-grupo-saude.png",
+                "title": "Sa\u00fade",
+                "id": "81bbf572-5c00-4833-9105-643eddebbf22",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "GERINT - Gerenciamento de Interna\u00e7\u00f5es",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Dados referentes \u00e0 sa\u00fade p\u00fablica da cidade de Porto Alegre.\r\n \r\n- Endere\u00e7o das Unidade de Sa\u00fade da Fam\u00edlia;\r\n- Unidades B\u00e1sicas de Sa\u00fade;\r\n- Mortalidade e Nascidos Vivos;\r\n- Unidades de Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade (por endere\u00e7o de resid\u00eancia do cidad\u00e3o);\r\n- Censo IBGE 2010 (por Unidades de Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade, por distrito sanit\u00e1rio e por ger\u00eancia distrital de sa\u00fade).",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125233.525978icone-grupo-saude.png",
+                "title": "Sa\u00fade",
+                "id": "81bbf572-5c00-4833-9105-643eddebbf22",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "GOR - Ger\u00eancia Or\u00e7ament\u00e1ria",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal da Fazenda",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "GTFS",
+        "Organiza\u00e7\u00e3o": "EPTC",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Dados referentes \u00e0 mobilidade urbana.\r\n\r\n- Acidentes;\r\n- Paradas de \u00f4nibus;\r\n- Linhas de \u00f4nibus e lota\u00e7\u00e3o;\r\n- Tabelas hor\u00e1rias (\u00f4nibus e lota\u00e7\u00e3o);\r\n- BikePOA;\r\n- Pontos de T\u00e1xi;\r\n- Ciclovias e Ciclofaixas.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125202.568112icone-grupo-mobilidade.png",
+                "title": "Mobilidade",
+                "id": "4e57cf8e-925c-4147-bafc-f9d9b5d55cf2",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "ZIP"
+        ]
+    },
+    {
+        "Pacote": "Indicadores do Plano Plurianual (PPA)",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Planejamento e Gest\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Intima\u00e7\u00f5es Preliminares \u2013 C\u00f3digo Municipal de Limpeza Urbana",
+        "Organiza\u00e7\u00e3o": "Departamento Municipal de Limpeza Urbana",
+        "Grupos": [
+            {
+                "display_name": "Servi\u00e7os Urbanos",
+                "description": "Dados relacionados a servi\u00e7os de infraestrutura, limpeza e manuten\u00e7\u00e3o do munic\u00edpio.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125217.693845icone-grupo-servicosurbanos.png",
+                "title": "Servi\u00e7os Urbanos",
+                "id": "ec1f481b-fe18-450f-9691-c2f56cb31896",
+                "name": "servicos-urbanos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Licitacon",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal da Fazenda",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "LOA - Lei Or\u00e7ament\u00e1ria Anual",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Planejamento e Gest\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Dados Estat\u00edsticos do Sistema de Ouvidoria Municipal de Porto Alegre (me-Ouv)",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Transpar\u00eancia e Controladoria",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "SIM - Sistema de Informa\u00e7\u00f5es de Mortalidade",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Dados referentes \u00e0 sa\u00fade p\u00fablica da cidade de Porto Alegre.\r\n \r\n- Endere\u00e7o das Unidade de Sa\u00fade da Fam\u00edlia;\r\n- Unidades B\u00e1sicas de Sa\u00fade;\r\n- Mortalidade e Nascidos Vivos;\r\n- Unidades de Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade (por endere\u00e7o de resid\u00eancia do cidad\u00e3o);\r\n- Censo IBGE 2010 (por Unidades de Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade, por distrito sanit\u00e1rio e por ger\u00eancia distrital de sa\u00fade).",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125233.525978icone-grupo-saude.png",
+                "title": "Sa\u00fade",
+                "id": "81bbf572-5c00-4833-9105-643eddebbf22",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Pesquisa Usos do Tempo Livre",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal da Cultura",
+        "Grupos": [
+            {
+                "display_name": "Cultura e Turismo",
+                "description": "Dados referentes aos setores de cultura e turismo da cidade de Porto Alegre.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2019-09-30-105018.424934cultturism-icon.png",
+                "title": "Cultura e Turismo",
+                "id": "972cdc0d-ea94-4d42-86c5-8c486499db73",
+                "name": "cultura-e-turismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Pesquisa Usos do Tempo Livre - Tabela de codifica\u00e7\u00e3o",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal da Cultura",
+        "Grupos": [
+            {
+                "display_name": "Cultura e Turismo",
+                "description": "Dados referentes aos setores de cultura e turismo da cidade de Porto Alegre.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2019-09-30-105018.424934cultturism-icon.png",
+                "title": "Cultura e Turismo",
+                "id": "972cdc0d-ea94-4d42-86c5-8c486499db73",
+                "name": "cultura-e-turismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Plano B\u00e1sico de Zona de Prote\u00e7\u00e3o de Aer\u00f3dromo (PBZPA), Helipontos (PBZH) e Plano Espec\u00edfico de Zoneamento de Ru\u00eddo (PEZR)",
+        "Organiza\u00e7\u00e3o": "Secretaria do Meio Ambiente e da Sustentabilidade",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente e Urbanismo",
+                "description": "Dados referentes ao sistema ambiental da cidade.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125146.603660icone-grupo-meioambiente.png",
+                "title": "Meio Ambiente e Urbanismo",
+                "id": "0f9f39de-3755-4ca9-917c-2d4f1c98e2de",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "ZIP"
+        ]
+    },
+    {
+        "Pacote": "Plano Diretor de Desenvolvimento Urbano Ambiental (PDDUA L.C. 434/99)",
+        "Organiza\u00e7\u00e3o": "Secretaria do Meio Ambiente e da Sustentabilidade",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente e Urbanismo",
+                "description": "Dados referentes ao sistema ambiental da cidade.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125146.603660icone-grupo-meioambiente.png",
+                "title": "Meio Ambiente e Urbanismo",
+                "id": "0f9f39de-3755-4ca9-917c-2d4f1c98e2de",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "ZIP"
+        ]
+    },
+    {
+        "Pacote": "PPA - Plano Plurianual",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Planejamento e Gest\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Projetos de Edifica\u00e7\u00e3o Aprovados",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal do Desenvolvimento Econ\u00f4mico",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente e Urbanismo",
+                "description": "Dados referentes ao sistema ambiental da cidade.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125146.603660icone-grupo-meioambiente.png",
+                "title": "Meio Ambiente e Urbanismo",
+                "id": "0f9f39de-3755-4ca9-917c-2d4f1c98e2de",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Quantitativo de inadimplentes dos Programas Habitacionais DEMHAB",
+        "Organiza\u00e7\u00e3o": "Departamento Municipal de Habita\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Raz\u00e3o Cont\u00e1bil - PROCEMPA",
+        "Organiza\u00e7\u00e3o": "PROCEMPA",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Receita",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal da Fazenda",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Regi\u00f5es de Planejamento (RP)",
+        "Organiza\u00e7\u00e3o": "Secretaria do Meio Ambiente e da Sustentabilidade",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente e Urbanismo",
+                "description": "Dados referentes ao sistema ambiental da cidade.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125146.603660icone-grupo-meioambiente.png",
+                "title": "Meio Ambiente e Urbanismo",
+                "id": "0f9f39de-3755-4ca9-917c-2d4f1c98e2de",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "ZIP"
+        ]
+    },
+    {
+        "Pacote": "Regi\u00f5es do Or\u00e7amento Participativo (ROP)",
+        "Organiza\u00e7\u00e3o": "Secretaria do Meio Ambiente e da Sustentabilidade",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente e Urbanismo",
+                "description": "Dados referentes ao sistema ambiental da cidade.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125146.603660icone-grupo-meioambiente.png",
+                "title": "Meio Ambiente e Urbanismo",
+                "id": "0f9f39de-3755-4ca9-917c-2d4f1c98e2de",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "ZIP"
+        ]
+    },
+    {
+        "Pacote": "Registros de Atendimento ao Cliente - CARRIS",
+        "Organiza\u00e7\u00e3o": "CARRIS",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "SGR - Grandes Geradores",
+        "Organiza\u00e7\u00e3o": "Departamento Municipal de Limpeza Urbana",
+        "Grupos": [
+            {
+                "display_name": "Servi\u00e7os Urbanos",
+                "description": "Dados relacionados a servi\u00e7os de infraestrutura, limpeza e manuten\u00e7\u00e3o do munic\u00edpio.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125217.693845icone-grupo-servicosurbanos.png",
+                "title": "Servi\u00e7os Urbanos",
+                "id": "ec1f481b-fe18-450f-9691-c2f56cb31896",
+                "name": "servicos-urbanos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "SIE - Sistema de Informa\u00e7\u00f5es Educacionais",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o",
+                "description": "Dados referentes \u00e0 educa\u00e7\u00e3o.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125058.370459icone-grupo-educacao.png",
+                "title": "Educa\u00e7\u00e3o",
+                "id": "134f8c6e-703c-4fd0-abd6-fa3f3e73e288",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Sinaliza\u00e7\u00e3o Gr\u00e1fica",
+        "Organiza\u00e7\u00e3o": "EPTC",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Dados referentes \u00e0 mobilidade urbana.\r\n\r\n- Acidentes;\r\n- Paradas de \u00f4nibus;\r\n- Linhas de \u00f4nibus e lota\u00e7\u00e3o;\r\n- Tabelas hor\u00e1rias (\u00f4nibus e lota\u00e7\u00e3o);\r\n- BikePOA;\r\n- Pontos de T\u00e1xi;\r\n- Ciclovias e Ciclofaixas.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125202.568112icone-grupo-mobilidade.png",
+                "title": "Mobilidade",
+                "id": "4e57cf8e-925c-4147-bafc-f9d9b5d55cf2",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "SINAN - Sistema de Informa\u00e7\u00e3o de Agravos de Notifica\u00e7\u00e3o",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Dados referentes \u00e0 sa\u00fade p\u00fablica da cidade de Porto Alegre.\r\n \r\n- Endere\u00e7o das Unidade de Sa\u00fade da Fam\u00edlia;\r\n- Unidades B\u00e1sicas de Sa\u00fade;\r\n- Mortalidade e Nascidos Vivos;\r\n- Unidades de Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade (por endere\u00e7o de resid\u00eancia do cidad\u00e3o);\r\n- Censo IBGE 2010 (por Unidades de Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade, por distrito sanit\u00e1rio e por ger\u00eancia distrital de sa\u00fade).",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125233.525978icone-grupo-saude.png",
+                "title": "Sa\u00fade",
+                "id": "81bbf572-5c00-4833-9105-643eddebbf22",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "SINASC - Sistema de Informa\u00e7\u00f5es de Nascidos Vivos",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Dados referentes \u00e0 sa\u00fade p\u00fablica da cidade de Porto Alegre.\r\n \r\n- Endere\u00e7o das Unidade de Sa\u00fade da Fam\u00edlia;\r\n- Unidades B\u00e1sicas de Sa\u00fade;\r\n- Mortalidade e Nascidos Vivos;\r\n- Unidades de Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade (por endere\u00e7o de resid\u00eancia do cidad\u00e3o);\r\n- Censo IBGE 2010 (por Unidades de Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade, por distrito sanit\u00e1rio e por ger\u00eancia distrital de sa\u00fade).",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125233.525978icone-grupo-saude.png",
+                "title": "Sa\u00fade",
+                "id": "81bbf572-5c00-4833-9105-643eddebbf22",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Relat\u00f3rios Estat\u00edsticos do Sistema de Gest\u00e3o de Parcerias (SGP)",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal de Transpar\u00eancia e Controladoria",
+        "Grupos": [
+            {
+                "display_name": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "description": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125036.704569icone-grupo-administracao.png",
+                "title": "Administra\u00e7\u00e3o e Finan\u00e7as",
+                "id": "667fbc53-3f2f-4084-b63c-e04de847a06f",
+                "name": "administracao-e-financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Sistema SCA - Sistema de Controle de \u00c1gua e Esgoto",
+        "Organiza\u00e7\u00e3o": "Departamento Municipal de \u00c1gua e Esgotos",
+        "Grupos": [
+            {
+                "display_name": "Servi\u00e7os Urbanos",
+                "description": "Dados relacionados a servi\u00e7os de infraestrutura, limpeza e manuten\u00e7\u00e3o do munic\u00edpio.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125217.693845icone-grupo-servicosurbanos.png",
+                "title": "Servi\u00e7os Urbanos",
+                "id": "ec1f481b-fe18-450f-9691-c2f56cb31896",
+                "name": "servicos-urbanos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "STPoa - Sistema de Transporte P\u00fablico de Porto Alegre",
+        "Organiza\u00e7\u00e3o": "EPTC",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Dados referentes \u00e0 mobilidade urbana.\r\n\r\n- Acidentes;\r\n- Paradas de \u00f4nibus;\r\n- Linhas de \u00f4nibus e lota\u00e7\u00e3o;\r\n- Tabelas hor\u00e1rias (\u00f4nibus e lota\u00e7\u00e3o);\r\n- BikePOA;\r\n- Pontos de T\u00e1xi;\r\n- Ciclovias e Ciclofaixas.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125202.568112icone-grupo-mobilidade.png",
+                "title": "Mobilidade",
+                "id": "4e57cf8e-925c-4147-bafc-f9d9b5d55cf2",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Vistorias",
+        "Organiza\u00e7\u00e3o": "Secretaria Municipal do Desenvolvimento Econ\u00f4mico",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente e Urbanismo",
+                "description": "Dados referentes ao sistema ambiental da cidade.",
+                "image_display_url": "https://dadosabertos.poa.br/uploads/group/2017-11-01-125146.603660icone-grupo-meioambiente.png",
+                "title": "Meio Ambiente e Urbanismo",
+                "id": "0f9f39de-3755-4ca9-917c-2d4f1c98e2de",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    }
+]

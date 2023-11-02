@@ -1,0 +1,2760 @@
+[
+    {
+        "Pacote": "Abrigos - Chuvas no Recife - Acolhimento",
+        "Organiza\u00e7\u00e3o": "Secretaria Executiva de Defesa Civil ",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Academia Recife",
+        "Organiza\u00e7\u00e3o": "Secretaria de Turismo e Lazer",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Academia da Cidade",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Acidentes de Tr\u00e2nsito com e sem vitimas 2015 a 2022",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            },
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Acidentes de Tr\u00e2nsito com V\u00edtimas 2014",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            },
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON",
+            "GeoJSON"
+        ]
+    },
+    {
+        "Pacote": "Acidentes de Tr\u00e2nsito com V\u00edtimas 2015",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            },
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "JSON",
+            "GeoJSON",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Acidentes de Tr\u00e2nsito com V\u00edtimas 2016",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            },
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Agremia\u00e7\u00f5es Carnavalescas",
+        "Organiza\u00e7\u00e3o": "Funda\u00e7\u00e3o de Cultura",
+        "Grupos": [
+            {
+                "display_name": "Cultura",
+                "description": "A cultura abrange v\u00e1rias formas art\u00edsticas, mas define tudo aquilo que \u00e9 produzido a partir da intelig\u00eancia humana. Ela est\u00e1 presente desde os povos primitivos em seus costumes, sistemas, leis, religi\u00e3o, em suas artes, ci\u00eancias, cren\u00e7as, mitos, valores morais e em tudo aquilo que compromete o sentir, o pensar e o agir das pessoas.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Cultura.jpg",
+                "title": "Cultura",
+                "id": "140faa9d-7af4-46f5-b4c9-564af719094f",
+                "name": "cultura"
+            },
+            {
+                "display_name": "Turismo",
+                "description": "D\u00e1-se o nome de turismo ao conjunto de atividades realizadas pelos indiv\u00edduos durante as suas viagens e estadias em lugares diferentes daqueles do seu entorno habitual por um per\u00edodo de tempo consecutivo inferior a um ano.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Turismo.jpg",
+                "title": "Turismo",
+                "id": "7faac491-67a6-43bf-ad27-dfdde0caa09d",
+                "name": "turismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Ambulat\u00f3rios",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Amostra de fluxo de veiculos a cada 15 minutos",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "\u00c1rea urbana",
+        "Organiza\u00e7\u00e3o": "Secretaria de Infraestrutura e Servi\u00e7os Urbanos",
+        "Grupos": [
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "GeoJSON",
+            "SHP",
+            "ZIP",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "\u00c1rvores Tombadas",
+        "Organiza\u00e7\u00e3o": "Secretaria de Meio Ambiente e Sustentabilidade",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente",
+                "description": "Conjunto de dados ambientais",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-meioambiente.jpg",
+                "title": "Meio Ambiente",
+                "id": "d82ae54a-232e-4a3f-bda0-361ef993f33a",
+                "name": "meio-ambiente"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "GeoJSON",
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Bares e Restaurantes",
+        "Organiza\u00e7\u00e3o": "Secretaria de Turismo e Lazer",
+        "Grupos": [
+            {
+                "display_name": "Turismo",
+                "description": "D\u00e1-se o nome de turismo ao conjunto de atividades realizadas pelos indiv\u00edduos durante as suas viagens e estadias em lugares diferentes daqueles do seu entorno habitual por um per\u00edodo de tempo consecutivo inferior a um ano.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Turismo.jpg",
+                "title": "Turismo",
+                "id": "7faac491-67a6-43bf-ad27-dfdde0caa09d",
+                "name": "turismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Cal\u00e7adas dos Corredores de Transporte Metropolitano",
+        "Organiza\u00e7\u00e3o": "Secretaria de Infraestrutura e Servi\u00e7os Urbanos",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Cal\u00e7adas Recuperadas da Cidade do Recife",
+        "Organiza\u00e7\u00e3o": "Empresa de Manuten\u00e7\u00e3o e Limpeza Urbana - EMLURB",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Vacina\u00e7\u00e3o",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Campanha de Vacina\u00e7\u00e3o contra a Influenza 2020",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Campanha de Vacina\u00e7\u00e3o contra a Influenza 2021",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Campanha de Vacina\u00e7\u00e3o Covid-19",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Covid",
+                "description": "Covid",
+                "image_display_url": "http://dados.recife.pe.gov.br/uploads/group/2020-06-19-182528.257833Captura-de-Tela-2020-06-19-as-15.25.08.png",
+                "title": "Covid",
+                "id": "246e7422-4a8e-4020-aef1-0f307634c534",
+                "name": "covid"
+            },
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            },
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Canais de Atendimento",
+        "Organiza\u00e7\u00e3o": "Ouvidoria",
+        "Grupos": [
+            {
+                "display_name": "Finan\u00e7as",
+                "description": "Dados de Finan\u00e7as P\u00fablicas",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-financas.jpg",
+                "title": "Finan\u00e7as",
+                "id": "3473660f-745c-4502-91f7-31ff9ea451ff",
+                "name": "financas"
+            },
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Casos de Dengue, Zika e Chikungunya",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Casos Graves \u2013 Covid-19",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Covid",
+                "description": "Covid",
+                "image_display_url": "http://dados.recife.pe.gov.br/uploads/group/2020-06-19-182528.257833Captura-de-Tela-2020-06-19-as-15.25.08.png",
+                "title": "Covid",
+                "id": "246e7422-4a8e-4020-aef1-0f307634c534",
+                "name": "covid"
+            },
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Casos Leves \u2013 Covid-19",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Covid",
+                "description": "Covid",
+                "image_display_url": "http://dados.recife.pe.gov.br/uploads/group/2020-06-19-182528.257833Captura-de-Tela-2020-06-19-as-15.25.08.png",
+                "title": "Covid",
+                "id": "246e7422-4a8e-4020-aef1-0f307634c534",
+                "name": "covid"
+            },
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "JSON",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Cemit\u00e9rios",
+        "Organiza\u00e7\u00e3o": "Empresa de Manuten\u00e7\u00e3o e Limpeza Urbana - EMLURB",
+        "Grupos": [
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Censo Escolar 2009",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio de Educa\u00e7\u00e3o",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Educacao.jpg",
+                "title": "Educa\u00e7\u00e3o",
+                "id": "880a5616-300c-49a2-aefe-28c3410d292d",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Censo Escolar 2010",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio de Educa\u00e7\u00e3o",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Educacao.jpg",
+                "title": "Educa\u00e7\u00e3o",
+                "id": "880a5616-300c-49a2-aefe-28c3410d292d",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Censo Escolar 2011",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio de Educa\u00e7\u00e3o",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Educacao.jpg",
+                "title": "Educa\u00e7\u00e3o",
+                "id": "880a5616-300c-49a2-aefe-28c3410d292d",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Censo Escolar 2012",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio de Educa\u00e7\u00e3o",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Educacao.jpg",
+                "title": "Educa\u00e7\u00e3o",
+                "id": "880a5616-300c-49a2-aefe-28c3410d292d",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Censo Escolar 2013",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio de Educa\u00e7\u00e3o",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Educacao.jpg",
+                "title": "Educa\u00e7\u00e3o",
+                "id": "880a5616-300c-49a2-aefe-28c3410d292d",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Censo Escolar 2014",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio de Educa\u00e7\u00e3o",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Educacao.jpg",
+                "title": "Educa\u00e7\u00e3o",
+                "id": "880a5616-300c-49a2-aefe-28c3410d292d",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Censo Escolar 2015",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio de Educa\u00e7\u00e3o",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Educacao.jpg",
+                "title": "Educa\u00e7\u00e3o",
+                "id": "880a5616-300c-49a2-aefe-28c3410d292d",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Censo Escolar 2016",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "XLSX"
+        ]
+    },
+    {
+        "Pacote": "Censo Escolar 2017",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "XLSX"
+        ]
+    },
+    {
+        "Pacote": "Censo Escolar 2018",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "XLSX"
+        ]
+    },
+    {
+        "Pacote": "Censo Escolar 2019",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "XLSX"
+        ]
+    },
+    {
+        "Pacote": "Censo Escolar 2020",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "XLSX"
+        ]
+    },
+    {
+        "Pacote": "Central de Atendimento de Servi\u00e7os da Emlurb \u2013 156",
+        "Organiza\u00e7\u00e3o": "Empresa de Manuten\u00e7\u00e3o e Limpeza Urbana - EMLURB",
+        "Grupos": [
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Centro Comunit\u00e1rio da Paz - COMPAZ",
+        "Organiza\u00e7\u00e3o": "Secretaria de Seguran\u00e7a Cidad\u00e3",
+        "Grupos": [
+            {
+                "display_name": "Cultura",
+                "description": "A cultura abrange v\u00e1rias formas art\u00edsticas, mas define tudo aquilo que \u00e9 produzido a partir da intelig\u00eancia humana. Ela est\u00e1 presente desde os povos primitivos em seus costumes, sistemas, leis, religi\u00e3o, em suas artes, ci\u00eancias, cren\u00e7as, mitos, valores morais e em tudo aquilo que compromete o sentir, o pensar e o agir das pessoas.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Cultura.jpg",
+                "title": "Cultura",
+                "id": "140faa9d-7af4-46f5-b4c9-564af719094f",
+                "name": "cultura"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Centro de Aten\u00e7\u00e3o Psicossocial (CAPS)",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Centro de Testagem e Aconselhamento em IST/AIDS",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Especialidades Odontol\u00f3gicas",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "title": "Sa\u00fade",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Centros de Refer\u00eancias",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Esta\u00e7\u00f5es de Bikes",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            },
+            {
+                "display_name": "Turismo",
+                "description": "D\u00e1-se o nome de turismo ao conjunto de atividades realizadas pelos indiv\u00edduos durante as suas viagens e estadias em lugares diferentes daqueles do seu entorno habitual por um per\u00edodo de tempo consecutivo inferior a um ano.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Turismo.jpg",
+                "title": "Turismo",
+                "id": "7faac491-67a6-43bf-ad27-dfdde0caa09d",
+                "name": "turismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Classifica\u00e7\u00e3o Nacional de Atividades Econ\u00f4micas - CNAE",
+        "Organiza\u00e7\u00e3o": "Secretaria de Finan\u00e7as",
+        "Grupos": [
+            {
+                "display_name": "Finan\u00e7as",
+                "description": "Dados de Finan\u00e7as P\u00fablicas",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-financas.jpg",
+                "title": "Finan\u00e7as",
+                "id": "3473660f-745c-4502-91f7-31ff9ea451ff",
+                "name": "financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Cobertura da Terra",
+        "Organiza\u00e7\u00e3o": "Secretaria de Meio Ambiente",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "GeoJSON"
+        ]
+    },
+    {
+        "Pacote": "Conecta Recife Wifi",
+        "Organiza\u00e7\u00e3o": "Emprel",
+        "Grupos": [
+            {
+                "display_name": "Turismo",
+                "description": "D\u00e1-se o nome de turismo ao conjunto de atividades realizadas pelos indiv\u00edduos durante as suas viagens e estadias em lugares diferentes daqueles do seu entorno habitual por um per\u00edodo de tempo consecutivo inferior a um ano.",
+                "title": "Turismo",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Turismo.jpg",
+                "id": "7faac491-67a6-43bf-ad27-dfdde0caa09d",
+                "name": "turismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Consult\u00f3rio na Rua",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Contratos , Aditivos e Apostilamentos",
+        "Organiza\u00e7\u00e3o": "Secretaria de Administra\u00e7\u00e3o e Gest\u00e3o de Pessoas",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Unidades de Cuidados Integrais",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Defesa Civil",
+        "Organiza\u00e7\u00e3o": "Secretaria Executiva de Defesa Civil ",
+        "Grupos": [
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "GeoJSON",
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Demandas dos Cidad\u00e3os e Servi\u00e7os - Dados Vivos Recife",
+        "Organiza\u00e7\u00e3o": "Emprel",
+        "Grupos": [
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "JSON",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Despesas Or\u00e7ament\u00e1rias",
+        "Organiza\u00e7\u00e3o": "Secretaria de Finan\u00e7as",
+        "Grupos": [
+            {
+                "display_name": "Finan\u00e7as",
+                "description": "Dados de Finan\u00e7as P\u00fablicas",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-financas.jpg",
+                "title": "Finan\u00e7as",
+                "id": "3473660f-745c-4502-91f7-31ff9ea451ff",
+                "name": "financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Destina\u00e7\u00e3o de res\u00edduos s\u00f3lidos",
+        "Organiza\u00e7\u00e3o": "Empresa de Manuten\u00e7\u00e3o e Limpeza Urbana - EMLURB",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Di\u00e1rio Oficial",
+        "Organiza\u00e7\u00e3o": "Secretaria de Governo e Participa\u00e7\u00e3o Social",
+        "Grupos": [
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "ZIP",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Distritos Sanit\u00e1rios",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON",
+            "GeoJSON"
+        ]
+    },
+    {
+        "Pacote": "Centros de Refer\u00eancia de Assist\u00eancia Social",
+        "Organiza\u00e7\u00e3o": "Secretaria de Desenvolvimento Social, Juventude, Pol\u00edtica Sobre Drogas e Direitos Humanos",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Empresas da Cidade do Recife",
+        "Organiza\u00e7\u00e3o": "Secretaria de Finan\u00e7as",
+        "Grupos": [
+            {
+                "display_name": "Finan\u00e7as",
+                "description": "Dados de Finan\u00e7as P\u00fablicas",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-financas.jpg",
+                "title": "Finan\u00e7as",
+                "id": "3473660f-745c-4502-91f7-31ff9ea451ff",
+                "name": "financas"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Equipamentos Culturais",
+        "Organiza\u00e7\u00e3o": "Secretaria de Cultura",
+        "Grupos": [
+            {
+                "display_name": "Cultura",
+                "description": "A cultura abrange v\u00e1rias formas art\u00edsticas, mas define tudo aquilo que \u00e9 produzido a partir da intelig\u00eancia humana. Ela est\u00e1 presente desde os povos primitivos em seus costumes, sistemas, leis, religi\u00e3o, em suas artes, ci\u00eancias, cren\u00e7as, mitos, valores morais e em tudo aquilo que compromete o sentir, o pensar e o agir das pessoas.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Cultura.jpg",
+                "title": "Cultura",
+                "id": "140faa9d-7af4-46f5-b4c9-564af719094f",
+                "name": "cultura"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Equipamentos de Monitoramento e Fiscaliza\u00e7\u00e3o de Tr\u00e2nsito",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Equipamentos P\u00fablicos",
+        "Organiza\u00e7\u00e3o": "Secretaria de Infraestrutura e Servi\u00e7os Urbanos",
+        "Grupos": [
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "GeoJSON",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Esp\u00e9cies de aves presentes no Recife",
+        "Organiza\u00e7\u00e3o": "Secretaria de Meio Ambiente",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "GeoJSON"
+        ]
+    },
+    {
+        "Pacote": "Esta\u00e7\u00f5es de Reparo de Bike - Projeto Salva Bike",
+        "Organiza\u00e7\u00e3o": "Secretaria de Turismo, Esportes e Lazer",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Faixas e Corredores de \u00f4nibus",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "GeoJSON",
+            "PDF",
+            "JSON",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Faixas Marginais dos recursos h\u00eddricos",
+        "Organiza\u00e7\u00e3o": "Secretaria de Meio Ambiente e Sustentabilidade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "GeoJSON"
+        ]
+    },
+    {
+        "Pacote": "Farm\u00e1cias da Fam\u00edlia",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Fluxo de veiculo por hora",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "FMS - Processos de aquisi\u00e7\u00f5es de bens e servi\u00e7os oriundos de Dispensas ou Inexigibilidades",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Covid",
+                "description": "Covid",
+                "title": "Covid",
+                "image_display_url": "http://dados.recife.pe.gov.br/uploads/group/2020-06-19-182528.257833Captura-de-Tela-2020-06-19-as-15.25.08.png",
+                "id": "246e7422-4a8e-4020-aef1-0f307634c534",
+                "name": "covid"
+            },
+            {
+                "display_name": "Finan\u00e7as",
+                "description": "Dados de Finan\u00e7as P\u00fablicas",
+                "title": "Finan\u00e7as",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-financas.jpg",
+                "id": "3473660f-745c-4502-91f7-31ff9ea451ff",
+                "name": "financas"
+            },
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "title": "Sa\u00fade",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "GABPE - Processos de aquisi\u00e7\u00f5es de bens e servi\u00e7os oriundos de Dispensas ou Inexigibilidades - Covid-19",
+        "Organiza\u00e7\u00e3o": "GABINETE DE PROJETOS ESPECIAIS -  ADMINISTRA\u00c7\u00c3O DIRETA - GABPE",
+        "Grupos": [
+            {
+                "display_name": "Covid",
+                "description": "Covid",
+                "title": "Covid",
+                "image_display_url": "http://dados.recife.pe.gov.br/uploads/group/2020-06-19-182528.257833Captura-de-Tela-2020-06-19-as-15.25.08.png",
+                "id": "246e7422-4a8e-4020-aef1-0f307634c534",
+                "name": "covid"
+            },
+            {
+                "display_name": "Finan\u00e7as",
+                "description": "Dados de Finan\u00e7as P\u00fablicas",
+                "title": "Finan\u00e7as",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-financas.jpg",
+                "id": "3473660f-745c-4502-91f7-31ff9ea451ff",
+                "name": "financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Ger\u00eancia de Promo\u00e7\u00e3o e Defesa dos Direitos Humanos Divis\u00e3o da Pessoa com Defici\u00eancia",
+        "Organiza\u00e7\u00e3o": "Secretaria de Desenvolvimento Social e Direitos Humanos",
+        "Grupos": [
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Gest\u00e3o de Dados Abertos",
+        "Organiza\u00e7\u00e3o": "Emprel",
+        "Grupos": [
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Guia de Pol\u00edticas P\u00fablicas de Juventude",
+        "Organiza\u00e7\u00e3o": "Secretaria de Desenvolvimento Social, Juventude, Pol\u00edtica Sobre Drogas e Direitos Humanos",
+        "Grupos": [
+            {
+                "display_name": "Cultura",
+                "description": "A cultura abrange v\u00e1rias formas art\u00edsticas, mas define tudo aquilo que \u00e9 produzido a partir da intelig\u00eancia humana. Ela est\u00e1 presente desde os povos primitivos em seus costumes, sistemas, leis, religi\u00e3o, em suas artes, ci\u00eancias, cren\u00e7as, mitos, valores morais e em tudo aquilo que compromete o sentir, o pensar e o agir das pessoas.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Cultura.jpg",
+                "title": "Cultura",
+                "id": "140faa9d-7af4-46f5-b4c9-564af719094f",
+                "name": "cultura"
+            },
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Hospitais",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Hot\u00e9is",
+        "Organiza\u00e7\u00e3o": "Secretaria de Turismo e Lazer",
+        "Grupos": [
+            {
+                "display_name": "Turismo",
+                "description": "D\u00e1-se o nome de turismo ao conjunto de atividades realizadas pelos indiv\u00edduos durante as suas viagens e estadias em lugares diferentes daqueles do seu entorno habitual por um per\u00edodo de tempo consecutivo inferior a um ano.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Turismo.jpg",
+                "title": "Turismo",
+                "id": "7faac491-67a6-43bf-ad27-dfdde0caa09d",
+                "name": "turismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Im\u00f3veis da Administra\u00e7\u00e3o P\u00fablica Municipal.",
+        "Organiza\u00e7\u00e3o": "Secretaria de Finan\u00e7as",
+        "Grupos": [
+            {
+                "display_name": "Finan\u00e7as",
+                "description": "Dados de Finan\u00e7as P\u00fablicas",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-financas.jpg",
+                "title": "Finan\u00e7as",
+                "id": "3473660f-745c-4502-91f7-31ff9ea451ff",
+                "name": "financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Im\u00f3veis Especiais de Preserva\u00e7\u00e3o - IEPs",
+        "Organiza\u00e7\u00e3o": "Secretaria de Planejamento Urbano",
+        "Grupos": [
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "GeoJSON",
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Licenciamento Ambiental",
+        "Organiza\u00e7\u00e3o": "Secretaria de Meio Ambiente e Sustentabilidade",
+        "Grupos": [
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            },
+            {
+                "display_name": "Meio Ambiente",
+                "description": "Conjunto de dados ambientais",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-meioambiente.jpg",
+                "title": "Meio Ambiente",
+                "id": "d82ae54a-232e-4a3f-bda0-361ef993f33a",
+                "name": "meio-ambiente"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Licenciamento Sanit\u00e1rio",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            },
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Licenciamento Urban\u00edstico",
+        "Organiza\u00e7\u00e3o": "Secretaria de Pol\u00edtica Urbana e Licenciamento",
+        "Grupos": [
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Licita\u00e7\u00f5es",
+        "Organiza\u00e7\u00e3o": "Secretaria de Administra\u00e7\u00e3o e Gest\u00e3o de Pessoas",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Localiza\u00e7\u00e3o dos Sem\u00e1foros",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "M\u00e3e Coruja",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Malha Ciclovi\u00e1ria do Recife",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            },
+            {
+                "display_name": "Turismo",
+                "description": "D\u00e1-se o nome de turismo ao conjunto de atividades realizadas pelos indiv\u00edduos durante as suas viagens e estadias em lugares diferentes daqueles do seu entorno habitual por um per\u00edodo de tempo consecutivo inferior a um ano.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Turismo.jpg",
+                "title": "Turismo",
+                "id": "7faac491-67a6-43bf-ad27-dfdde0caa09d",
+                "name": "turismo"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "GeoJSON",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Maternidades",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Monitoramento das \u00c1reas de Riscos",
+        "Organiza\u00e7\u00e3o": "Secretaria Executiva de Defesa Civil ",
+        "Grupos": [
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Centro de Orienta\u00e7\u00e3o ao Viajante",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Parques e pra\u00e7as",
+        "Organiza\u00e7\u00e3o": "Secretaria de Infraestrutura e Servi\u00e7os Urbanos",
+        "Grupos": [
+            {
+                "display_name": "Turismo",
+                "description": "D\u00e1-se o nome de turismo ao conjunto de atividades realizadas pelos indiv\u00edduos durante as suas viagens e estadias em lugares diferentes daqueles do seu entorno habitual por um per\u00edodo de tempo consecutivo inferior a um ano.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Turismo.jpg",
+                "title": "Turismo",
+                "id": "7faac491-67a6-43bf-ad27-dfdde0caa09d",
+                "name": "turismo"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "GeoJSON",
+            "PDF",
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Passaporte da Vacina - Rela\u00e7\u00e3o dos Estabelecimentos com Descontos",
+        "Organiza\u00e7\u00e3o": "Emprel",
+        "Grupos": [
+            {
+                "display_name": "Covid",
+                "description": "Covid",
+                "image_display_url": "http://dados.recife.pe.gov.br/uploads/group/2020-06-19-182528.257833Captura-de-Tela-2020-06-19-as-15.25.08.png",
+                "title": "Covid",
+                "id": "246e7422-4a8e-4020-aef1-0f307634c534",
+                "name": "covid"
+            },
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            },
+            {
+                "display_name": "Turismo",
+                "description": "D\u00e1-se o nome de turismo ao conjunto de atividades realizadas pelos indiv\u00edduos durante as suas viagens e estadias em lugares diferentes daqueles do seu entorno habitual por um per\u00edodo de tempo consecutivo inferior a um ano.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Turismo.jpg",
+                "title": "Turismo",
+                "id": "7faac491-67a6-43bf-ad27-dfdde0caa09d",
+                "name": "turismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Pedidos de Acesso \u00e0 Informa\u00e7\u00e3o",
+        "Organiza\u00e7\u00e3o": "Controladoria Geral do Munic\u00edpio",
+        "Grupos": [
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "ZIP",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Perfil das Pessoas Vacinadas - Covid-19",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Covid",
+                "description": "Covid",
+                "image_display_url": "http://dados.recife.pe.gov.br/uploads/group/2020-06-19-182528.257833Captura-de-Tela-2020-06-19-as-15.25.08.png",
+                "title": "Covid",
+                "id": "246e7422-4a8e-4020-aef1-0f307634c534",
+                "name": "covid"
+            },
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "JSON",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Per\u00edmetro do Porto Digital",
+        "Organiza\u00e7\u00e3o": "Secretaria de Pol\u00edtica Urbana e Licenciamento",
+        "Grupos": [
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "GeoJSON",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Pesagem de Coletas de Res\u00edduos",
+        "Organiza\u00e7\u00e3o": "Empresa de Manuten\u00e7\u00e3o e Limpeza Urbana - EMLURB",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente",
+                "description": "Conjunto de dados ambientais",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-meioambiente.jpg",
+                "title": "Meio Ambiente",
+                "id": "d82ae54a-232e-4a3f-bda0-361ef993f33a",
+                "name": "meio-ambiente"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Pesquisa Origem Destino 2016",
+        "Organiza\u00e7\u00e3o": "Secretaria de Pol\u00edtica Urbana e Licenciamento",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Pesquisa Origem-Destino Metropolitana 2018",
+        "Organiza\u00e7\u00e3o": "Instituto da Cidade Pel\u00f3pidas Silveira",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "ZIP",
+            "PDF",
+            "CSV",
+            "GeoJSON"
+        ]
+    },
+    {
+        "Pacote": "Policl\u00ednicas",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Pontos de coleta seletiva e res\u00edduos",
+        "Organiza\u00e7\u00e3o": "Secretaria de Meio Ambiente e Sustentabilidade",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente",
+                "description": "Conjunto de dados ambientais",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-meioambiente.jpg",
+                "title": "Meio Ambiente",
+                "id": "d82ae54a-232e-4a3f-bda0-361ef993f33a",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Postes- ilumina\u00e7\u00e3o p\u00fablica do Recife",
+        "Organiza\u00e7\u00e3o": "Empresa de Manuten\u00e7\u00e3o e Limpeza Urbana - EMLURB",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Postos do Sistema P\u00fablico de Emprego, Trabalho e Renda",
+        "Organiza\u00e7\u00e3o": "SECRETARIA DE TRABALHO E QUALIFICA\u00c7\u00c3O PROFISSIONAL",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio de Educa\u00e7\u00e3o",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Educacao.jpg",
+                "title": "Educa\u00e7\u00e3o",
+                "id": "880a5616-300c-49a2-aefe-28c3410d292d",
+                "name": "educacao"
+            },
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Preven\u00e7\u00e3o de Urg\u00eancia IST/AIDS -PEP",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "FMPI e FMAS - Processos de aquisi\u00e7\u00f5es de bens e servi\u00e7os oriundos de Dispensas ou Inexigibilidades",
+        "Organiza\u00e7\u00e3o": "Secretaria de Desenvolvimento Social, Juventude, Pol\u00edtica Sobre Drogas e Direitos Humanos",
+        "Grupos": [
+            {
+                "display_name": "Covid",
+                "description": "Covid",
+                "title": "Covid",
+                "image_display_url": "http://dados.recife.pe.gov.br/uploads/group/2020-06-19-182528.257833Captura-de-Tela-2020-06-19-as-15.25.08.png",
+                "id": "246e7422-4a8e-4020-aef1-0f307634c534",
+                "name": "covid"
+            },
+            {
+                "display_name": "Finan\u00e7as",
+                "description": "Dados de Finan\u00e7as P\u00fablicas",
+                "title": "Finan\u00e7as",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-financas.jpg",
+                "id": "3473660f-745c-4502-91f7-31ff9ea451ff",
+                "name": "financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Receitas",
+        "Organiza\u00e7\u00e3o": "Secretaria de Finan\u00e7as",
+        "Grupos": [
+            {
+                "display_name": "Finan\u00e7as",
+                "description": "Dados de Finan\u00e7as P\u00fablicas",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-financas.jpg",
+                "title": "Finan\u00e7as",
+                "id": "3473660f-745c-4502-91f7-31ff9ea451ff",
+                "name": "financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Recife Bom de Bola",
+        "Organiza\u00e7\u00e3o": "Secretaria de Turismo e Lazer",
+        "Grupos": [
+            {
+                "display_name": "Cultura",
+                "description": "A cultura abrange v\u00e1rias formas art\u00edsticas, mas define tudo aquilo que \u00e9 produzido a partir da intelig\u00eancia humana. Ela est\u00e1 presente desde os povos primitivos em seus costumes, sistemas, leis, religi\u00e3o, em suas artes, ci\u00eancias, cren\u00e7as, mitos, valores morais e em tudo aquilo que compromete o sentir, o pensar e o agir das pessoas.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Cultura.jpg",
+                "title": "Cultura",
+                "id": "140faa9d-7af4-46f5-b4c9-564af719094f",
+                "name": "cultura"
+            },
+            {
+                "display_name": "Governo e Pol\u00edtica",
+                "description": "",
+                "image_display_url": "",
+                "title": "Governo e Pol\u00edtica",
+                "id": "66a4ba3f-2bd7-4456-a5d8-e225f88c5f01",
+                "name": "governo-e-politica"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Rede de aten\u00e7\u00e3o \u00e0 sa\u00fade do Recife",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Rede de Bibliotecas pela Paz",
+        "Organiza\u00e7\u00e3o": "Secretaria de Seguran\u00e7a Cidad\u00e3",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Rede de Educa\u00e7\u00e3o Municipal",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio de Educa\u00e7\u00e3o",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Educacao.jpg",
+                "title": "Educa\u00e7\u00e3o",
+                "id": "880a5616-300c-49a2-aefe-28c3410d292d",
+                "name": "educacao"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "GeoJSON",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Rede de Sa\u00fade Municipal",
+        "Organiza\u00e7\u00e3o": "Secretaria de Infraestrutura e Servi\u00e7os Urbanos",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "GeoJSON",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Registro das Infra\u00e7\u00f5es de Transito",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "JSON",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Registro de chamados atendidos pela CTTU",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "JSON",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Registro de velocidade das vias 2013 - 2016",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Rela\u00e7\u00e3o de pessoas vacinadas - Covid 19",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Covid",
+                "description": "Covid",
+                "image_display_url": "http://dados.recife.pe.gov.br/uploads/group/2020-06-19-182528.257833Captura-de-Tela-2020-06-19-as-15.25.08.png",
+                "title": "Covid",
+                "id": "246e7422-4a8e-4020-aef1-0f307634c534",
+                "name": "covid"
+            },
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Roteiro de Coleta",
+        "Organiza\u00e7\u00e3o": "Empresa de Manuten\u00e7\u00e3o e Limpeza Urbana - EMLURB",
+        "Grupos": [
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "title": "Urbanismo",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Roteiros Culturais, Turismo e Lazer",
+        "Organiza\u00e7\u00e3o": "Secretaria de Turismo e Lazer",
+        "Grupos": [
+            {
+                "display_name": "Cultura",
+                "description": "A cultura abrange v\u00e1rias formas art\u00edsticas, mas define tudo aquilo que \u00e9 produzido a partir da intelig\u00eancia humana. Ela est\u00e1 presente desde os povos primitivos em seus costumes, sistemas, leis, religi\u00e3o, em suas artes, ci\u00eancias, cren\u00e7as, mitos, valores morais e em tudo aquilo que compromete o sentir, o pensar e o agir das pessoas.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Cultura.jpg",
+                "title": "Cultura",
+                "id": "140faa9d-7af4-46f5-b4c9-564af719094f",
+                "name": "cultura"
+            },
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            },
+            {
+                "display_name": "Turismo",
+                "description": "D\u00e1-se o nome de turismo ao conjunto de atividades realizadas pelos indiv\u00edduos durante as suas viagens e estadias em lugares diferentes daqueles do seu entorno habitual por um per\u00edodo de tempo consecutivo inferior a um ano.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Turismo.jpg",
+                "title": "Turismo",
+                "id": "7faac491-67a6-43bf-ad27-dfdde0caa09d",
+                "name": "turismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "GeoJSON",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "SEDUC - Processos de aquisi\u00e7\u00f5es de bens e servi\u00e7os oriundos de Dispensas ou Inexigibilidades - Covid-19",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Covid",
+                "description": "Covid",
+                "image_display_url": "http://dados.recife.pe.gov.br/uploads/group/2020-06-19-182528.257833Captura-de-Tela-2020-06-19-as-15.25.08.png",
+                "title": "Covid",
+                "id": "246e7422-4a8e-4020-aef1-0f307634c534",
+                "name": "covid"
+            },
+            {
+                "display_name": "Educa\u00e7\u00e3o",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio de Educa\u00e7\u00e3o",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Educacao.jpg",
+                "title": "Educa\u00e7\u00e3o",
+                "id": "880a5616-300c-49a2-aefe-28c3410d292d",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "SEGOV - Processos de aquisi\u00e7\u00f5es de bens e servi\u00e7os oriundos de Dispensas ou Inexigibilidades - Covid-19",
+        "Organiza\u00e7\u00e3o": "Secretaria de Governo e Participa\u00e7\u00e3o Social",
+        "Grupos": [
+            {
+                "display_name": "Covid",
+                "description": "Covid",
+                "image_display_url": "http://dados.recife.pe.gov.br/uploads/group/2020-06-19-182528.257833Captura-de-Tela-2020-06-19-as-15.25.08.png",
+                "title": "Covid",
+                "id": "246e7422-4a8e-4020-aef1-0f307634c534",
+                "name": "covid"
+            },
+            {
+                "display_name": "Finan\u00e7as",
+                "description": "Dados de Finan\u00e7as P\u00fablicas",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-financas.jpg",
+                "title": "Finan\u00e7as",
+                "id": "3473660f-745c-4502-91f7-31ff9ea451ff",
+                "name": "financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "SEINFRA - Processos de aquisi\u00e7\u00f5es de bens e servi\u00e7os oriundos de Dispensas ou Inexigibilidades - Covid-19",
+        "Organiza\u00e7\u00e3o": "Secretaria de Infraestrutura e Servi\u00e7os Urbanos",
+        "Grupos": [
+            {
+                "display_name": "Covid",
+                "description": "Covid",
+                "title": "Covid",
+                "image_display_url": "http://dados.recife.pe.gov.br/uploads/group/2020-06-19-182528.257833Captura-de-Tela-2020-06-19-as-15.25.08.png",
+                "id": "246e7422-4a8e-4020-aef1-0f307634c534",
+                "name": "covid"
+            },
+            {
+                "display_name": "Finan\u00e7as",
+                "description": "Dados de Finan\u00e7as P\u00fablicas",
+                "title": "Finan\u00e7as",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-financas.jpg",
+                "id": "3473660f-745c-4502-91f7-31ff9ea451ff",
+                "name": "financas"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Apoio Diagn\u00f3stico e Terap\u00eautico (SADT)",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Atendimento M\u00f3vel de Urg\u00eancia - SAMU - 2011",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Atendimento M\u00f3vel de Urg\u00eancia - SAMU - 2012",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Atendimento M\u00f3vel de Urg\u00eancia - SAMU - 2013",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Atendimento M\u00f3vel de Urg\u00eancia - SAMU - 2014",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Atendimento M\u00f3vel de Urg\u00eancia - SAMU - 2015",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Atendimento M\u00f3vel de Urg\u00eancia - SAMU 2016",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Atendimento M\u00f3vel de Urg\u00eancia - SAMU -2017",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Atendimento M\u00f3vel de Urg\u00eancia - SAMU 2018",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Atendimento M\u00f3vel de Urg\u00eancia - SAMU 2019",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Atendimento M\u00f3vel de Urg\u00eancia - SAMU 2020",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Atendimento M\u00f3vel de Urg\u00eancia - SAMU 2021",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Atendimento M\u00f3vel de Urg\u00eancia - SAMU 2022",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Atendimento M\u00f3vel de Urg\u00eancia - SAMU 2023",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Servi\u00e7o de Pronto Atendimento - SPA",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Situa\u00e7\u00e3o final dos alunos por per\u00edodo letivo",
+        "Organiza\u00e7\u00e3o": "Secretaria de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio de Educa\u00e7\u00e3o",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Educacao.jpg",
+                "title": "Educa\u00e7\u00e3o",
+                "id": "880a5616-300c-49a2-aefe-28c3410d292d",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Unidade de Tratamento Soropositivo",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Unidades B\u00e1sica de Sa\u00fade",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Unidades de distribui\u00e7\u00e3o de preservativos",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "N\u00facleos de Apoio \u00e0 Sa\u00fade da Fam\u00edlia (NASF)",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Unidades Especializadas",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Unidades Protegidas do Recife - Meio Ambiente",
+        "Organiza\u00e7\u00e3o": "Secretaria de Meio Ambiente",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "GeoJSON"
+        ]
+    },
+    {
+        "Pacote": "Unidades Sa\u00fade da Fam\u00edlia (USF)",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Unidades UBT e USF por Logradouro",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Urbanismo T\u00e1tico",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "GeoJSON",
+            "JSON",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Velocidade das Vias - Quantitativo por Velocidade M\u00e9dia - 2018",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Velocidade das Vias - Quantitativo por Velocidade M\u00e9dia - 2016",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Velocidade das Vias - Quantitativo por Velocidade M\u00e9dia - 2017",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Velocidade das Vias - Quantitativo por Velocidade M\u00e9dia - 2019",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Velocidade das Vias - Quantitativo por Velocidade M\u00e9dia - 2020",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Velocidade das Vias - Quantitativo por Velocidade M\u00e9dia - 2021",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "title": "Mobilidade",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            },
+            {
+                "display_name": "Urbanismo",
+                "description": "T\u00e9cnica de organizar as cidades com o objetivo de criar condi\u00e7\u00f5es satisfat\u00f3rias de vida nos centros urbanos",
+                "title": "Urbanismo",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Urbanismo.jpg",
+                "id": "9bf15ebd-9730-4ce3-b821-340405d9a189",
+                "name": "urbanismo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Velocidade das Vias - Quantitativo por Velocidade M\u00e9dia - 2022",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Velocidade das Vias - Quantitativo por Velocidade M\u00e9dia - 2023",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Centro de Vigil\u00e2ncia de Zoonoses",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Vigil\u00e2ncia Sanit\u00e1ria",
+        "Organiza\u00e7\u00e3o": "Secretaria de Sa\u00fade",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Este grupo armazena conjuntos de dados relacionados ao dom\u00ednio S\u00e1ude.",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-Saude.jpg",
+                "title": "Sa\u00fade",
+                "id": "3b29b98e-e16d-4f4f-ad16-40915b878b72",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Zona Azul Eletr\u00f4nico",
+        "Organiza\u00e7\u00e3o": "Autarquia de Tr\u00e2nsito e Transporte Urbano do Recife - CTTU",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Mobilidade urbana \u00e9 a capacidade de deslocamento de pessoas e bens no espa\u00e7o urbano para a realiza\u00e7\u00e3o das atividades cotidianas em tempo considerado ideal, de modo confort\u00e1vel e seguro. ",
+                "image_display_url": "http://dados.recife.pe.gov.br/base/images/recife/Icone-mobilidade.jpg",
+                "title": "Mobilidade",
+                "id": "c9e552ce-6d64-43e8-a45a-d62714525ee1",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "JSON",
+            "CSV"
+        ]
+    }
+]

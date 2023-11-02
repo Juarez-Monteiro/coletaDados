@@ -1,0 +1,325 @@
+[
+    {
+        "Pacote": "Bilhetagem Eletr\u00f4nica 2018",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Bilhetagem Eletr\u00f4nica 2019",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Bilhetagem Eletr\u00f4nica 2020",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "title": "Mobilidade Urbana",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Bilhetagem Eletr\u00f4nica 2021",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "title": "Mobilidade Urbana",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Bilhetagem Eletr\u00f4nica 2022",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Custos Operacionais Maio 2018",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Custos Operacionais Maio 2019",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Custos Operacionais Maio 2020",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Estudos e Relat\u00f3rios",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Hor\u00e1rios Programados",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Itiner\u00e1rios",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Linhas",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Paradas",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "KML"
+        ]
+    },
+    {
+        "Pacote": "Rotas Cidade do Natal",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "KML"
+        ]
+    },
+    {
+        "Pacote": "Rotas Concei\u00e7\u00e3o",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "KML"
+        ]
+    },
+    {
+        "Pacote": "Rotas Guanabara",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "KML"
+        ]
+    },
+    {
+        "Pacote": "Rotas Reunidas",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "KML"
+        ]
+    },
+    {
+        "Pacote": "Rotas Santa Maria",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "KML"
+        ]
+    },
+    {
+        "Pacote": "Rotas Via Sul",
+        "Organiza\u00e7\u00e3o": "Natal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade Urbana",
+                "description": "",
+                "image_display_url": "http://dados.natal.br/uploads/group/2018-11-13-185250.323828mobilidade.jpg",
+                "title": "Mobilidade Urbana",
+                "id": "09132b97-d39f-4316-a859-240c31e98ef8",
+                "name": "mobilidade-urbana"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "KML"
+        ]
+    }
+]

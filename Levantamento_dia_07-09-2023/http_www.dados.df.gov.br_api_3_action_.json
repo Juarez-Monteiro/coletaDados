@@ -1,0 +1,2562 @@
+[
+    {
+        "Pacote": "Campanhas educativas de tr\u00e2nsito Detran-DF",
+        "Organiza\u00e7\u00e3o": "DETRAN-DF - Departamento de Tr\u00e2nsito do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Cursos oferecidos pelo Detran/DF ao p\u00fablico",
+        "Organiza\u00e7\u00e3o": "DETRAN-DF - Departamento de Tr\u00e2nsito do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Acidentes de tr\u00e2nsito nas vias urbanas do Distrito Federal nos \u00faltimos 10 anos com v\u00edtimas fatais",
+        "Organiza\u00e7\u00e3o": "DETRAN-DF - Departamento de Tr\u00e2nsito do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Aloca\u00e7\u00e3o de Professores",
+        "Organiza\u00e7\u00e3o": "EDUCA\u00c7\u00c3O - Secretaria de Estado de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o ",
+                "description": "Agrupamento para os dados relacionados \u00e0 EDUCA\u00c7\u00c3O ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144641.082275educacao.svg",
+                "title": "Educa\u00e7\u00e3o ",
+                "id": "6ef87da1-4c41-4d17-9e86-e734a2d1d3aa",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Andamento dos procedimentos e processos disciplinares",
+        "Organiza\u00e7\u00e3o": "CGDF - Controladoria-Geral do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Andamento dos processos de Tomada de Contas Especial",
+        "Organiza\u00e7\u00e3o": "CGDF - Controladoria-Geral do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "APR - Demonstrativo de Autoriza\u00e7\u00e3o de Aplica\u00e7\u00e3o e Resgate",
+        "Organiza\u00e7\u00e3o": "IPREV - Instituto de Previd\u00eancia dos Servidores do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "XLS"
+        ]
+    },
+    {
+        "Pacote": "PROMAQ - \u00c1rea Queimada - 2018",
+        "Organiza\u00e7\u00e3o": "IBRAM - Instituto do Meio Ambiente e dos Recursos H\u00eddricos do Distrito Federal \u2013 Bras\u00edlia Ambiental",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente",
+                "description": "",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-12-05-143316.318185meio-ambeiente.svg",
+                "title": "Meio Ambiente",
+                "id": "ad271f29-8744-4007-8cea-aaaa0c837a79",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "SHP"
+        ]
+    },
+    {
+        "Pacote": "Atendimentos e Consultas (ambulat\u00f3rio e emerg\u00eancia)",
+        "Organiza\u00e7\u00e3o": "SA\u00daDE - Secretaria de Estado de Sa\u00fade ",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Agrupamento para os dados relacionados \u00e0 SA\u00daDE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144921.839155saude.svg",
+                "title": "Sa\u00fade",
+                "id": "084faa49-712a-448d-84a5-2f96cce6be4c",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "HTML",
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "Atua\u00e7\u00e3o de Servidores nas Escolas",
+        "Organiza\u00e7\u00e3o": "EDUCA\u00c7\u00c3O - Secretaria de Estado de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o ",
+                "description": "Agrupamento para os dados relacionados \u00e0 EDUCA\u00c7\u00c3O ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144641.082275educacao.svg",
+                "title": "Educa\u00e7\u00e3o ",
+                "id": "6ef87da1-4c41-4d17-9e86-e734a2d1d3aa",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Balancetes e Balan\u00e7os",
+        "Organiza\u00e7\u00e3o": "IPREV - Instituto de Previd\u00eancia dos Servidores do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Base de dados cont\u00e1bil do Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Organiza\u00e7\u00e3o": "SLU - Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente",
+                "description": "",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-12-05-143316.318185meio-ambeiente.svg",
+                "title": "Meio Ambiente",
+                "id": "ad271f29-8744-4007-8cea-aaaa0c837a79",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Base de dados do almoxarifado do Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Organiza\u00e7\u00e3o": "SLU - Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Base de dados dos autorizat\u00e1rios, motoristas e veiculos do servico de t\u00e1xi do DF",
+        "Organiza\u00e7\u00e3o": "Secretaria de Estado de Transporte e Mobilidade",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "ODS",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Base de dados patrimonial do Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Organiza\u00e7\u00e3o": "SLU - Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Benef\u00edcio Eventual em virtude de morte",
+        "Organiza\u00e7\u00e3o": " SEDES - Secretaria de Estado de Desenvolvimento Social",
+        "Grupos": [
+            {
+                "display_name": "Assist\u00eancia Social",
+                "description": "Dados de benef\u00edcios sociais, informa\u00e7\u00e3o custodiada pela SEDESTMIDH",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2018-05-15-185023.775400assistenciasocial-PNG.png",
+                "title": "Assist\u00eancia Social",
+                "id": "e0a599fb-4473-49a1-ae71-26681c7c2e0e",
+                "name": "assistencia-social"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Benef\u00edcio eventual em virtude de nascimento (Aux\u00edlio Natalidade)",
+        "Organiza\u00e7\u00e3o": " SEDES - Secretaria de Estado de Desenvolvimento Social",
+        "Grupos": [
+            {
+                "display_name": "Assist\u00eancia Social",
+                "description": "Dados de benef\u00edcios sociais, informa\u00e7\u00e3o custodiada pela SEDESTMIDH",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2018-05-15-185023.775400assistenciasocial-PNG.png",
+                "title": "Assist\u00eancia Social",
+                "id": "e0a599fb-4473-49a1-ae71-26681c7c2e0e",
+                "name": "assistencia-social"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Benef\u00edcio Eventual em virtude de vulnerabilidade tempor\u00e1ria ou calamidade p\u00fablica",
+        "Organiza\u00e7\u00e3o": " SEDES - Secretaria de Estado de Desenvolvimento Social",
+        "Grupos": [
+            {
+                "display_name": "Assist\u00eancia Social",
+                "description": "Dados de benef\u00edcios sociais, informa\u00e7\u00e3o custodiada pela SEDESTMIDH",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2018-05-15-185023.775400assistenciasocial-PNG.png",
+                "title": "Assist\u00eancia Social",
+                "id": "e0a599fb-4473-49a1-ae71-26681c7c2e0e",
+                "name": "assistencia-social"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Campanhas Educativas",
+        "Organiza\u00e7\u00e3o": "DER - Departamento de Estradas de Rodagem",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "SECID - Capacita\u00e7\u00f5es e Treinamentos",
+        "Organiza\u00e7\u00e3o": "CIDADES - Secretaria de Estado das Cidades do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "SECID - Cidades Limpas",
+        "Organiza\u00e7\u00e3o": "CIDADES - Secretaria de Estado das Cidades do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Cirurgias - Interna\u00e7\u00e3o",
+        "Organiza\u00e7\u00e3o": "SA\u00daDE - Secretaria de Estado de Sa\u00fade ",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Cirurgias - Produ\u00e7\u00e3o Ambulatorial",
+        "Organiza\u00e7\u00e3o": "SA\u00daDE - Secretaria de Estado de Sa\u00fade ",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "SECID - Com\u00e9rcio de ambulantes",
+        "Organiza\u00e7\u00e3o": "CIDADES - Secretaria de Estado das Cidades do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Contratos Obras SODF",
+        "Organiza\u00e7\u00e3o": "SODF - Secretaria de Estado de Obras e Infraestrutura do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "[SEPLAG] Contratos e Conv\u00eanios 2016",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "[SEPLAG] Contratos e Conv\u00eanios 2017",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Crimes Contra o Patrim\u00f4nio - CCP",
+        "Organiza\u00e7\u00e3o": "SSP - Secretaria de Estado de Seguran\u00e7a P\u00fablica do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Seguran\u00e7a",
+                "description": "Agrupamento para os dados relacionados \u00e0 SEGURAN\u00c7A P\u00daBLICA",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144711.992134seguranca.svg",
+                "title": "Seguran\u00e7a",
+                "id": "7e1d0428-a806-49f9-9591-e94ce4ec6620",
+                "name": "seguranca"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "XLSX"
+        ]
+    },
+    {
+        "Pacote": "Crimes de Racismo e Inj\u00faria racial no Distrito Federal",
+        "Organiza\u00e7\u00e3o": "SSP - Secretaria de Estado de Seguran\u00e7a P\u00fablica do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Seguran\u00e7a",
+                "description": "Agrupamento para os dados relacionados \u00e0 SEGURAN\u00c7A P\u00daBLICA",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144711.992134seguranca.svg",
+                "title": "Seguran\u00e7a",
+                "id": "7e1d0428-a806-49f9-9591-e94ce4ec6620",
+                "name": "seguranca"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Crimes Violentos Letais Intencionais - CVLI",
+        "Organiza\u00e7\u00e3o": "SSP - Secretaria de Estado de Seguran\u00e7a P\u00fablica do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Seguran\u00e7a",
+                "description": "Agrupamento para os dados relacionados \u00e0 SEGURAN\u00c7A P\u00daBLICA",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144711.992134seguranca.svg",
+                "title": "Seguran\u00e7a",
+                "id": "7e1d0428-a806-49f9-9591-e94ce4ec6620",
+                "name": "seguranca"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "XLSX"
+        ]
+    },
+    {
+        "Pacote": "Dados Estat\u00edsticos do Sistema de Ouvidoria / OUV-DF",
+        "Organiza\u00e7\u00e3o": "CGDF - Controladoria-Geral do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Participa\u00e7\u00e3o Social",
+                "description": "Dados de Ouvidoria e Lei de Acesso \u00e0 Informa\u00e7\u00e3o",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2018-05-15-185200.860669participacaosocial-PNG.png",
+                "title": "Participa\u00e7\u00e3o Social",
+                "id": "0e425f95-5e6b-40f2-920b-2edf81f8fb66",
+                "name": "participacao-social"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Dados da for\u00e7a de trabalho pessoal efetivo e terceirizado da FJZB",
+        "Organiza\u00e7\u00e3o": "FJZB - Funda\u00e7\u00e3o Jardim Zool\u00f3gico de Bras\u00edlia ",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "xlxs",
+            "XLSX"
+        ]
+    },
+    {
+        "Pacote": "Dados da Ouvidoria da FJZB",
+        "Organiza\u00e7\u00e3o": "FJZB - Funda\u00e7\u00e3o Jardim Zool\u00f3gico de Bras\u00edlia ",
+        "Grupos": [
+            {
+                "display_name": "Participa\u00e7\u00e3o Social",
+                "description": "Dados de Ouvidoria e Lei de Acesso \u00e0 Informa\u00e7\u00e3o",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2018-05-15-185200.860669participacaosocial-PNG.png",
+                "title": "Participa\u00e7\u00e3o Social",
+                "id": "0e425f95-5e6b-40f2-920b-2edf81f8fb66",
+                "name": "participacao-social"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "ODT",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Dados da Regi\u00e3o Educa\u00e7\u00e3o do Guar\u00e1",
+        "Organiza\u00e7\u00e3o": "EDUCA\u00c7\u00c3O - Secretaria de Estado de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o ",
+                "description": "Agrupamento para os dados relacionados \u00e0 EDUCA\u00c7\u00c3O ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144641.082275educacao.svg",
+                "title": "Educa\u00e7\u00e3o ",
+                "id": "6ef87da1-4c41-4d17-9e86-e734a2d1d3aa",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Dados das medi\u00e7\u00f5es dos servi\u00e7os executados no \u00e2mbito do Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Organiza\u00e7\u00e3o": "SLU - Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente",
+                "description": "",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-12-05-143316.318185meio-ambeiente.svg",
+                "title": "Meio Ambiente",
+                "id": "ad271f29-8744-4007-8cea-aaaa0c837a79",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "XLSX",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Dados da Telematr\u00edcula",
+        "Organiza\u00e7\u00e3o": "EDUCA\u00c7\u00c3O - Secretaria de Estado de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o ",
+                "description": "Agrupamento para os dados relacionados \u00e0 EDUCA\u00c7\u00c3O ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144641.082275educacao.svg",
+                "title": "Educa\u00e7\u00e3o ",
+                "id": "6ef87da1-4c41-4d17-9e86-e734a2d1d3aa",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "ODF",
+            "CSV",
+            "KML"
+        ]
+    },
+    {
+        "Pacote": "Dados de atendimentos realizados pelo Hospital Veterin\u00e1rio da FJZB",
+        "Organiza\u00e7\u00e3o": "FJZB - Funda\u00e7\u00e3o Jardim Zool\u00f3gico de Bras\u00edlia ",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "ODT",
+            "CSV",
+            "XLSX"
+        ]
+    },
+    {
+        "Pacote": "Dados de matr\u00edcula da Secretaria de Educa\u00e7\u00e3o DF",
+        "Organiza\u00e7\u00e3o": "EDUCA\u00c7\u00c3O - Secretaria de Estado de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o ",
+                "description": "Agrupamento para os dados relacionados \u00e0 EDUCA\u00c7\u00c3O ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144641.082275educacao.svg",
+                "title": "Educa\u00e7\u00e3o ",
+                "id": "6ef87da1-4c41-4d17-9e86-e734a2d1d3aa",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "SHP",
+            "KML"
+        ]
+    },
+    {
+        "Pacote": "Dados de projetos de pesquisa realizados na FJZB",
+        "Organiza\u00e7\u00e3o": "FJZB - Funda\u00e7\u00e3o Jardim Zool\u00f3gico de Bras\u00edlia ",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            ".csv"
+        ]
+    },
+    {
+        "Pacote": "Dados do cumprimento PDTI dos projetos de Tecnologia da Informa\u00e7\u00e3o (TIC) do Servi\u00e7o De Limpeza Urbana",
+        "Organiza\u00e7\u00e3o": "SLU - Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente",
+                "description": "",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-12-05-143316.318185meio-ambeiente.svg",
+                "title": "Meio Ambiente",
+                "id": "ad271f29-8744-4007-8cea-aaaa0c837a79",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Dados do Participa DF (LAI)",
+        "Organiza\u00e7\u00e3o": "CGDF - Controladoria-Geral do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Dados do plantel oficial do Zool\u00f3gico de Bras\u00edlia",
+        "Organiza\u00e7\u00e3o": "FJZB - Funda\u00e7\u00e3o Jardim Zool\u00f3gico de Bras\u00edlia ",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "XLSX",
+            "ODS"
+        ]
+    },
+    {
+        "Pacote": "Dados do Prospera DF",
+        "Organiza\u00e7\u00e3o": "SEDET - Secretaria de Estado de Desenvolvimento Econ\u00f4mico, Trabalho e Renda do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "title": "Governo",
+                "image_display_url": "http://www.dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Dados dos Autos de Infra\u00e7\u00e3o do Servi\u00e7o de t\u00e1xi do Distrito Federal",
+        "Organiza\u00e7\u00e3o": "Secretaria de Estado de Transporte e Mobilidade",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "ODS",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Dados dos Autos de Infra\u00e7\u00e3o do STPC/DF",
+        "Organiza\u00e7\u00e3o": "SEMOB - Secretaria de Estado de Transporte e Mobilidade",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "ODS"
+        ]
+    },
+    {
+        "Pacote": "Dados dos Autos de Infra\u00e7\u00e3o (2018) do STIP/DF",
+        "Organiza\u00e7\u00e3o": "SEMOB - Secretaria de Estado de Transporte e Mobilidade",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "ODS"
+        ]
+    },
+    {
+        "Pacote": "Contratos vigentes do Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Organiza\u00e7\u00e3o": "SLU - Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Dados do Sistema de Gerenciamento de Filas",
+        "Organiza\u00e7\u00e3o": "SEJUS - Secretaria de Estado de Justi\u00e7a e Cidadania",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "HTML",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Dados estat\u00edsticos do or\u00e7amento",
+        "Organiza\u00e7\u00e3o": "FJZB - Funda\u00e7\u00e3o Jardim Zool\u00f3gico de Bras\u00edlia ",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Dados do e-SIC [finalizado em 06/12/2022]",
+        "Organiza\u00e7\u00e3o": "CGDF - Controladoria-Geral do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Participa\u00e7\u00e3o Social",
+                "description": "Dados de Ouvidoria e Lei de Acesso \u00e0 Informa\u00e7\u00e3o",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2018-05-15-185200.860669participacaosocial-PNG.png",
+                "title": "Participa\u00e7\u00e3o Social",
+                "id": "0e425f95-5e6b-40f2-920b-2edf81f8fb66",
+                "name": "participacao-social"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Dados estat\u00edsticos das manifesta\u00e7\u00f5es e pedidos de acesso \u00e0 informa\u00e7\u00f5es realizados na Ouvidoria do Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Organiza\u00e7\u00e3o": "SLU - Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Exames - Interna\u00e7\u00e3o",
+        "Organiza\u00e7\u00e3o": "SA\u00daDE - Secretaria de Estado de Sa\u00fade ",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Dados Georreferenciados - SITURB/SEGETH",
+        "Organiza\u00e7\u00e3o": "SEGETH - Secretaria de Estado de Gest\u00e3o do Territ\u00f3rio e Habita\u00e7\u00e3o",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "ZIP"
+        ]
+    },
+    {
+        "Pacote": "Dados sobre os programas de conserva\u00e7\u00e3o realizados pela FJZB",
+        "Organiza\u00e7\u00e3o": "FJZB - Funda\u00e7\u00e3o Jardim Zool\u00f3gico de Bras\u00edlia ",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "ODT"
+        ]
+    },
+    {
+        "Pacote": "DAIR  - Demonstrativo das Aplica\u00e7\u00f5es e Investimentos dos Recursos",
+        "Organiza\u00e7\u00e3o": "IPREV - Instituto de Previd\u00eancia dos Servidores do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "XML",
+            "XLM"
+        ]
+    },
+    {
+        "Pacote": "Desempenho Escolar",
+        "Organiza\u00e7\u00e3o": "EDUCA\u00c7\u00c3O - Secretaria de Estado de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o ",
+                "description": "Agrupamento para os dados relacionados \u00e0 EDUCA\u00c7\u00c3O ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144641.082275educacao.svg",
+                "title": "Educa\u00e7\u00e3o ",
+                "id": "6ef87da1-4c41-4d17-9e86-e734a2d1d3aa",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "ZIP"
+        ]
+    },
+    {
+        "Pacote": "Demanda de Inscri\u00e7\u00f5es no Telematr\u00edcula",
+        "Organiza\u00e7\u00e3o": "EDUCA\u00c7\u00c3O - Secretaria de Estado de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o ",
+                "description": "Agrupamento para os dados relacionados \u00e0 EDUCA\u00c7\u00c3O ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144641.082275educacao.svg",
+                "title": "Educa\u00e7\u00e3o ",
+                "id": "6ef87da1-4c41-4d17-9e86-e734a2d1d3aa",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Demonstrativo da Homologa\u00e7\u00e3o das Certid\u00f5es de Tempo de Contribui\u00e7\u00e3o",
+        "Organiza\u00e7\u00e3o": "IPREV - Instituto de Previd\u00eancia dos Servidores do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Demonstrativo da Evolu\u00e7\u00e3o do Estoque da Compensa\u00e7\u00e3o Previdenci\u00e1ria",
+        "Organiza\u00e7\u00e3o": "IPREV - Instituto de Previd\u00eancia dos Servidores do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Demonstrativo do Acumulado da Compensa\u00e7\u00e3o Previdenci\u00e1ria",
+        "Organiza\u00e7\u00e3o": "IPREV - Instituto de Previd\u00eancia dos Servidores do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Composi\u00e7\u00e3o da Carteira de Investimentos",
+        "Organiza\u00e7\u00e3o": "IPREV - Instituto de Previd\u00eancia dos Servidores do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Assist\u00eancia Social",
+                "description": "Dados de benef\u00edcios sociais, informa\u00e7\u00e3o custodiada pela SEDESTMIDH",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2018-05-15-185023.775400assistenciasocial-PNG.png",
+                "title": "Assist\u00eancia Social",
+                "id": "e0a599fb-4473-49a1-ae71-26681c7c2e0e",
+                "name": "assistencia-social"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Demonstrativo Consolidado dos Resultados Previdenci\u00e1rios",
+        "Organiza\u00e7\u00e3o": "IPREV - Instituto de Previd\u00eancia dos Servidores do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Demonstrativos de Contratos Vigentes",
+        "Organiza\u00e7\u00e3o": "IPREV - Instituto de Previd\u00eancia dos Servidores do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "XML"
+        ]
+    },
+    {
+        "Pacote": "Di\u00e1rias e Passagens",
+        "Organiza\u00e7\u00e3o": "IPREV - Instituto de Previd\u00eancia dos Servidores do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "DIPR - Demonstrativo de Informa\u00e7\u00f5es Previdenci\u00e1rias e Repasses",
+        "Organiza\u00e7\u00e3o": "IPREV - Instituto de Previd\u00eancia dos Servidores do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Distor\u00e7\u00e3o idade-s\u00e9rie estudantil",
+        "Organiza\u00e7\u00e3o": "EDUCA\u00c7\u00c3O - Secretaria de Estado de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o ",
+                "description": "Agrupamento para os dados relacionados \u00e0 EDUCA\u00c7\u00c3O ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144641.082275educacao.svg",
+                "title": "Educa\u00e7\u00e3o ",
+                "id": "6ef87da1-4c41-4d17-9e86-e734a2d1d3aa",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "DRAA \u2013 Demonstrativo de Resultado da Avalia\u00e7\u00e3o Atuarial",
+        "Organiza\u00e7\u00e3o": "IPREV - Instituto de Previd\u00eancia dos Servidores do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Atendimentos realizados por projetos de Educa\u00e7\u00e3o Ambiental da FJZB",
+        "Organiza\u00e7\u00e3o": "FJZB - Funda\u00e7\u00e3o Jardim Zool\u00f3gico de Bras\u00edlia ",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "[SEPLAG] Emendas Parlamentares 2017",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "[SEPLAG] Emendas Parlamentares 2016",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Empresas Ativas por Natureza",
+        "Organiza\u00e7\u00e3o": "JUCIS-DF - Junta Comercial, Industrial e Servi\u00e7os do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "XLS"
+        ]
+    },
+    {
+        "Pacote": "Empresas Constitu\u00eddas por Natureza",
+        "Organiza\u00e7\u00e3o": "JUCIS-DF - Junta Comercial, Industrial e Servi\u00e7os do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "XLS"
+        ]
+    },
+    {
+        "Pacote": "Empresas Extintas por Natureza",
+        "Organiza\u00e7\u00e3o": "JUCIS-DF - Junta Comercial, Industrial e Servi\u00e7os do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "XLS"
+        ]
+    },
+    {
+        "Pacote": "Empresas Programa de Integridade",
+        "Organiza\u00e7\u00e3o": "CGDF - Controladoria-Geral do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Empresas P\u00fablicas e Sociedades de Economia Mista Ativas",
+        "Organiza\u00e7\u00e3o": "JUCIS-DF - Junta Comercial, Industrial e Servi\u00e7os do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Endere\u00e7o Escolar",
+        "Organiza\u00e7\u00e3o": "EDUCA\u00c7\u00c3O - Secretaria de Estado de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o ",
+                "description": "Agrupamento para os dados relacionados \u00e0 EDUCA\u00c7\u00c3O ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144641.082275educacao.svg",
+                "title": "Educa\u00e7\u00e3o ",
+                "id": "6ef87da1-4c41-4d17-9e86-e734a2d1d3aa",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "\ufeffEquipamentos de fiscaliza\u00e7\u00e3o eletr\u00f4nica nas vias urbanas do Distrito Federal",
+        "Organiza\u00e7\u00e3o": "DETRAN-DF - Departamento de Tr\u00e2nsito do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Estudos T\u00e9cnicos do Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Organiza\u00e7\u00e3o": "SLU - Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente",
+                "description": "",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-12-05-143316.318185meio-ambeiente.svg",
+                "title": "Meio Ambiente",
+                "id": "ad271f29-8744-4007-8cea-aaaa0c837a79",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Evas\u00e3o Estudantil",
+        "Organiza\u00e7\u00e3o": "EDUCA\u00c7\u00c3O - Secretaria de Estado de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o ",
+                "description": "Agrupamento para os dados relacionados \u00e0 EDUCA\u00c7\u00c3O ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144641.082275educacao.svg",
+                "title": "Educa\u00e7\u00e3o ",
+                "id": "6ef87da1-4c41-4d17-9e86-e734a2d1d3aa",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Exames - Produ\u00e7\u00e3o Ambulatorial",
+        "Organiza\u00e7\u00e3o": "SA\u00daDE - Secretaria de Estado de Sa\u00fade ",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Agrupamento para os dados relacionados \u00e0 SA\u00daDE",
+                "title": "Sa\u00fade",
+                "image_display_url": "http://www.dados.df.gov.br/uploads/group/2017-06-14-144921.839155saude.svg",
+                "id": "084faa49-712a-448d-84a5-2f96cce6be4c",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "JSON",
+            "HTML",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Faixas de pedestres existentes por regi\u00e3o administrativa nas vias urbanas do Distrito Federal",
+        "Organiza\u00e7\u00e3o": "DETRAN-DF - Departamento de Tr\u00e2nsito do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Fauna atropelada",
+        "Organiza\u00e7\u00e3o": "IBRAM - Instituto do Meio Ambiente e dos Recursos H\u00eddricos do Distrito Federal \u2013 Bras\u00edlia Ambiental",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente",
+                "description": "",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-12-05-143316.318185meio-ambeiente.svg",
+                "title": "Meio Ambiente",
+                "id": "ad271f29-8744-4007-8cea-aaaa0c837a79",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "SHP"
+        ]
+    },
+    {
+        "Pacote": "SECID - Feiras e Shopping-Feira",
+        "Organiza\u00e7\u00e3o": "CIDADES - Secretaria de Estado das Cidades do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "SECID - Food Trucks",
+        "Organiza\u00e7\u00e3o": "CIDADES - Secretaria de Estado das Cidades do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Frota de ve\u00edculos do Distrito Federal nos \u00faltimos 10 anos",
+        "Organiza\u00e7\u00e3o": "DETRAN-DF - Departamento de Tr\u00e2nsito do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Gastos com Publicidade",
+        "Organiza\u00e7\u00e3o": "SECOM - Secretaria de Estado de Comunica\u00e7\u00e3o ",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "\u00cdndice de mortos por 10 mil ve\u00edculos no Distrito Federal nos \u00faltimos 10 anos",
+        "Organiza\u00e7\u00e3o": "DETRAN-DF - Departamento de Tr\u00e2nsito do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Informa\u00e7\u00f5es Gerenciais do PTU/DF",
+        "Organiza\u00e7\u00e3o": "Secretaria de Estado de Transporte e Mobilidade",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "ODS"
+        ]
+    },
+    {
+        "Pacote": "Infra\u00e7\u00f5es de Tr\u00e2nsito",
+        "Organiza\u00e7\u00e3o": "DER - Departamento de Estradas de Rodagem",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            ".csv"
+        ]
+    },
+    {
+        "Pacote": "Infraestrutura das Escolas",
+        "Organiza\u00e7\u00e3o": "EDUCA\u00c7\u00c3O - Secretaria de Estado de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o ",
+                "description": "Agrupamento para os dados relacionados \u00e0 EDUCA\u00c7\u00c3O ",
+                "title": "Educa\u00e7\u00e3o ",
+                "image_display_url": "http://www.dados.df.gov.br/uploads/group/2017-06-14-144641.082275educacao.svg",
+                "id": "6ef87da1-4c41-4d17-9e86-e734a2d1d3aa",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Malha Ciclovi\u00e1ria Georreferenciada",
+        "Organiza\u00e7\u00e3o": "Secretaria de Estado de Transporte e Mobilidade",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "KML",
+            "ZIP"
+        ]
+    },
+    {
+        "Pacote": "Melhorias nas instala\u00e7\u00f5es f\u00edsicas e nos recintos dos animais da FJZB",
+        "Organiza\u00e7\u00e3o": "FJZB - Funda\u00e7\u00e3o Jardim Zool\u00f3gico de Bras\u00edlia ",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "PPTX",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Nascidos Vivos",
+        "Organiza\u00e7\u00e3o": "SA\u00daDE - Secretaria de Estado de Sa\u00fade ",
+        "Grupos": [
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Agrupamento para os dados relacionados \u00e0 SA\u00daDE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144921.839155saude.svg",
+                "title": "Sa\u00fade",
+                "id": "084faa49-712a-448d-84a5-2f96cce6be4c",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "JSON"
+        ]
+    },
+    {
+        "Pacote": "N\u00famero de habilitados nos Distrito Federal nos \u00faltimos 10 anos",
+        "Organiza\u00e7\u00e3o": "DETRAN-DF - Departamento de Tr\u00e2nsito do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "\u00d3bitos Ocorridos no DF",
+        "Organiza\u00e7\u00e3o": "SA\u00daDE - Secretaria de Estado de Sa\u00fade ",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Obra de Artes Especiais",
+        "Organiza\u00e7\u00e3o": "DER - Departamento de Estradas de Rodagem",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://www.dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Oferta de Modalidades das Escolas",
+        "Organiza\u00e7\u00e3o": "EDUCA\u00c7\u00c3O - Secretaria de Estado de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Educa\u00e7\u00e3o ",
+                "description": "Agrupamento para os dados relacionados \u00e0 EDUCA\u00c7\u00c3O ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144641.082275educacao.svg",
+                "title": "Educa\u00e7\u00e3o ",
+                "id": "6ef87da1-4c41-4d17-9e86-e734a2d1d3aa",
+                "name": "educacao"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "SECID - Parque da Cidade e Galeria dos Estados",
+        "Organiza\u00e7\u00e3o": "CIDADES - Secretaria de Estado das Cidades do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "SECID - Parcelamentos de d\u00e9bitos",
+        "Organiza\u00e7\u00e3o": "CIDADES - Secretaria de Estado das Cidades do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Pareceres Jur\u00eddicos (Ementas) do Servi\u00e7o de Limpeza Urbana",
+        "Organiza\u00e7\u00e3o": "SLU - Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - SEEDF",
+        "Organiza\u00e7\u00e3o": "EDUCA\u00c7\u00c3O - Secretaria de Estado de Educa\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - PGDF",
+        "Organiza\u00e7\u00e3o": "PGDF - Procuradoria-Geral do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Pedestre mortos em trechos n\u00e3o semaforizados nas vias do Distrito Federal nos \u00faltimos 10 anos",
+        "Organiza\u00e7\u00e3o": "DETRAN-DF - Departamento de Tr\u00e2nsito do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Aberto Instituto Bras\u00edlia Ambiental - IBRAM",
+        "Organiza\u00e7\u00e3o": "IBRAM - Instituto do Meio Ambiente e dos Recursos H\u00eddricos do Distrito Federal \u2013 Bras\u00edlia Ambiental",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente",
+                "description": "",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-12-05-143316.318185meio-ambeiente.svg",
+                "title": "Meio Ambiente",
+                "id": "ad271f29-8744-4007-8cea-aaaa0c837a79",
+                "name": "meio-ambiente"
+            },
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - CBMDF",
+        "Organiza\u00e7\u00e3o": "CBMDF - Corpo de Bombeiros Militar do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - CASA MILITAR",
+        "Organiza\u00e7\u00e3o": "CM - Casa Militar do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - CULTURA",
+        "Organiza\u00e7\u00e3o": "SEC - Secretaria de Estado de Cultura do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - CGDF",
+        "Organiza\u00e7\u00e3o": "CGDF - Controladoria-Geral do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            },
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos do DER/DF",
+        "Organiza\u00e7\u00e3o": "DER - Departamento de Estradas de Rodagem",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - FJZB",
+        "Organiza\u00e7\u00e3o": "FJZB - Funda\u00e7\u00e3o Jardim Zool\u00f3gico de Bras\u00edlia ",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos JUCIS-DF",
+        "Organiza\u00e7\u00e3o": "JUCIS-DF - Junta Comercial, Industrial e Servi\u00e7os do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - SECID",
+        "Organiza\u00e7\u00e3o": "CIDADES - Secretaria de Estado das Cidades do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - PMDF",
+        "Organiza\u00e7\u00e3o": "PMDF - Pol\u00edcia Militar do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            },
+            {
+                "display_name": "Seguran\u00e7a",
+                "description": "Agrupamento para os dados relacionados \u00e0 SEGURAN\u00c7A P\u00daBLICA",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144711.992134seguranca.svg",
+                "title": "Seguran\u00e7a",
+                "id": "7e1d0428-a806-49f9-9591-e94ce4ec6620",
+                "name": "seguranca"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - PROCON/DF",
+        "Organiza\u00e7\u00e3o": "PROCON - Instituto de Defesa do Consumidor",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "title": "Planos de Dados Abertos",
+                "image_display_url": "http://www.dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - SECOM",
+        "Organiza\u00e7\u00e3o": "SECOM - Secretaria de Estado de Comunica\u00e7\u00e3o ",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            },
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - SEDESTMIDH",
+        "Organiza\u00e7\u00e3o": " SEDES - Secretaria de Estado de Desenvolvimento Social",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "[FAZENDA] Plano de Dados Abertos - SEF/DF",
+        "Organiza\u00e7\u00e3o": "FAZENDA - Secretaria de Estado de Fazenda",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - SEGETH DF",
+        "Organiza\u00e7\u00e3o": "Secretaria de Estado de Desenvolvimento Urbano e Habita\u00e7\u00e3o",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - SEJUS",
+        "Organiza\u00e7\u00e3o": "SEJUS - Secretaria de Estado de Justi\u00e7a e Cidadania",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - SEMOB",
+        "Organiza\u00e7\u00e3o": "Secretaria de Estado de Transporte e Mobilidade",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "[SEPLAG] Plano de Dados Abertos 2017-2018",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "title": "Planos de Dados Abertos",
+                "image_display_url": "http://www.dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - SES",
+        "Organiza\u00e7\u00e3o": "SA\u00daDE - Secretaria de Estado de Sa\u00fade ",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            },
+            {
+                "display_name": "Sa\u00fade",
+                "description": "Agrupamento para os dados relacionados \u00e0 SA\u00daDE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144921.839155saude.svg",
+                "title": "Sa\u00fade",
+                "id": "084faa49-712a-448d-84a5-2f96cce6be4c",
+                "name": "saude"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - SINESP",
+        "Organiza\u00e7\u00e3o": "Secretaria de Estado de Obras e Infraestrutura do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - SLU/DF",
+        "Organiza\u00e7\u00e3o": "SLU - Servi\u00e7o de Limpeza Urbana do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "title": "Planos de Dados Abertos",
+                "image_display_url": "http://www.dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Desaparecimento e localiza\u00e7\u00e3o de pessoas no Distrito Federal",
+        "Organiza\u00e7\u00e3o": "SSP - Secretaria de Estado de Seguran\u00e7a P\u00fablica do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Seguran\u00e7a",
+                "description": "Agrupamento para os dados relacionados \u00e0 SEGURAN\u00c7A P\u00daBLICA",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144711.992134seguranca.svg",
+                "title": "Seguran\u00e7a",
+                "id": "7e1d0428-a806-49f9-9591-e94ce4ec6620",
+                "name": "seguranca"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "[Portal da Transpar\u00eancia] Benefici\u00e1rios de Programas Sociais",
+        "Organiza\u00e7\u00e3o": " SEDES - Secretaria de Estado de Desenvolvimento Social",
+        "Grupos": [
+            {
+                "display_name": "Assist\u00eancia Social",
+                "description": "Dados de benef\u00edcios sociais, informa\u00e7\u00e3o custodiada pela SEDESTMIDH",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2018-05-15-185023.775400assistenciasocial-PNG.png",
+                "title": "Assist\u00eancia Social",
+                "id": "e0a599fb-4473-49a1-ae71-26681c7c2e0e",
+                "name": "assistencia-social"
+            },
+            {
+                "display_name": "Portal da Transpar\u00eancia",
+                "description": "Re\u00fane as bases de dados que s\u00e3o disponibilizadas no Portal da Transpar\u00eancia do Distrito Federal. As frequ\u00eancias de atualiza\u00e7\u00e3o das bases aqui publicadas podem variar em rela\u00e7\u00e3o ao encontrado naquele Portal.",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2021-09-22-132609.741362logo-portal-transparencia-df-dados-abertos-small2.png",
+                "title": "Portal da Transpar\u00eancia",
+                "id": "109ddc5c-0ce5-430c-8fc3-c950d025303f",
+                "name": "portal-da-transparencia-do-distrito-federal"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "HTML",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "[Portal da Transpar\u00eancia] Conv\u00eanios de Despesa",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Or\u00e7amento",
+                "description": "Agrupamento para os dados relacionados a OR\u00c7AMENTO",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172109.575244orcamento.svg",
+                "title": "Or\u00e7amento",
+                "id": "66d8fca3-e6d2-4e9b-aa86-a55b457967bc",
+                "name": "orcamento"
+            },
+            {
+                "display_name": "Portal da Transpar\u00eancia",
+                "description": "Re\u00fane as bases de dados que s\u00e3o disponibilizadas no Portal da Transpar\u00eancia do Distrito Federal. As frequ\u00eancias de atualiza\u00e7\u00e3o das bases aqui publicadas podem variar em rela\u00e7\u00e3o ao encontrado naquele Portal.",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2021-09-22-132609.741362logo-portal-transparencia-df-dados-abertos-small2.png",
+                "title": "Portal da Transpar\u00eancia",
+                "id": "109ddc5c-0ce5-430c-8fc3-c950d025303f",
+                "name": "portal-da-transparencia-do-distrito-federal"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "HTML",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "[Portal da Transpar\u00eancia] Conv\u00eanios de Receita",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Or\u00e7amento",
+                "description": "Agrupamento para os dados relacionados a OR\u00c7AMENTO",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172109.575244orcamento.svg",
+                "title": "Or\u00e7amento",
+                "id": "66d8fca3-e6d2-4e9b-aa86-a55b457967bc",
+                "name": "orcamento"
+            },
+            {
+                "display_name": "Portal da Transpar\u00eancia",
+                "description": "Re\u00fane as bases de dados que s\u00e3o disponibilizadas no Portal da Transpar\u00eancia do Distrito Federal. As frequ\u00eancias de atualiza\u00e7\u00e3o das bases aqui publicadas podem variar em rela\u00e7\u00e3o ao encontrado naquele Portal.",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2021-09-22-132609.741362logo-portal-transparencia-df-dados-abertos-small2.png",
+                "title": "Portal da Transpar\u00eancia",
+                "id": "109ddc5c-0ce5-430c-8fc3-c950d025303f",
+                "name": "portal-da-transparencia-do-distrito-federal"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "HTML",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "[Portal da Transpar\u00eancia] Conv\u00eanios - Entidades Beneficiadas",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Or\u00e7amento",
+                "description": "Agrupamento para os dados relacionados a OR\u00c7AMENTO",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172109.575244orcamento.svg",
+                "title": "Or\u00e7amento",
+                "id": "66d8fca3-e6d2-4e9b-aa86-a55b457967bc",
+                "name": "orcamento"
+            },
+            {
+                "display_name": "Portal da Transpar\u00eancia",
+                "description": "Re\u00fane as bases de dados que s\u00e3o disponibilizadas no Portal da Transpar\u00eancia do Distrito Federal. As frequ\u00eancias de atualiza\u00e7\u00e3o das bases aqui publicadas podem variar em rela\u00e7\u00e3o ao encontrado naquele Portal.",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2021-09-22-132609.741362logo-portal-transparencia-df-dados-abertos-small2.png",
+                "title": "Portal da Transpar\u00eancia",
+                "id": "109ddc5c-0ce5-430c-8fc3-c950d025303f",
+                "name": "portal-da-transparencia-do-distrito-federal"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "HTML",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "[Portal da Transpar\u00eancia] Despesas da Administra\u00e7\u00e3o P\u00fablica do Distrito Federal.",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Or\u00e7amento",
+                "description": "Agrupamento para os dados relacionados a OR\u00c7AMENTO",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172109.575244orcamento.svg",
+                "title": "Or\u00e7amento",
+                "id": "66d8fca3-e6d2-4e9b-aa86-a55b457967bc",
+                "name": "orcamento"
+            },
+            {
+                "display_name": "Portal da Transpar\u00eancia",
+                "description": "Re\u00fane as bases de dados que s\u00e3o disponibilizadas no Portal da Transpar\u00eancia do Distrito Federal. As frequ\u00eancias de atualiza\u00e7\u00e3o das bases aqui publicadas podem variar em rela\u00e7\u00e3o ao encontrado naquele Portal.",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2021-09-22-132609.741362logo-portal-transparencia-df-dados-abertos-small2.png",
+                "title": "Portal da Transpar\u00eancia",
+                "id": "109ddc5c-0ce5-430c-8fc3-c950d025303f",
+                "name": "portal-da-transparencia-do-distrito-federal"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "[Portal da Transpar\u00eancia] Di\u00e1rias, Passagens e Despesas com Locomo\u00e7\u00e3o",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Or\u00e7amento",
+                "description": "Agrupamento para os dados relacionados a OR\u00c7AMENTO",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172109.575244orcamento.svg",
+                "title": "Or\u00e7amento",
+                "id": "66d8fca3-e6d2-4e9b-aa86-a55b457967bc",
+                "name": "orcamento"
+            },
+            {
+                "display_name": "Portal da Transpar\u00eancia",
+                "description": "Re\u00fane as bases de dados que s\u00e3o disponibilizadas no Portal da Transpar\u00eancia do Distrito Federal. As frequ\u00eancias de atualiza\u00e7\u00e3o das bases aqui publicadas podem variar em rela\u00e7\u00e3o ao encontrado naquele Portal.",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2021-09-22-132609.741362logo-portal-transparencia-df-dados-abertos-small2.png",
+                "title": "Portal da Transpar\u00eancia",
+                "id": "109ddc5c-0ce5-430c-8fc3-c950d025303f",
+                "name": "portal-da-transparencia-do-distrito-federal"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "HTML",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "[Portal da Transpar\u00eancia] Licita\u00e7\u00f5es",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            },
+            {
+                "display_name": "Or\u00e7amento",
+                "description": "Agrupamento para os dados relacionados a OR\u00c7AMENTO",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172109.575244orcamento.svg",
+                "title": "Or\u00e7amento",
+                "id": "66d8fca3-e6d2-4e9b-aa86-a55b457967bc",
+                "name": "orcamento"
+            },
+            {
+                "display_name": "Portal da Transpar\u00eancia",
+                "description": "Re\u00fane as bases de dados que s\u00e3o disponibilizadas no Portal da Transpar\u00eancia do Distrito Federal. As frequ\u00eancias de atualiza\u00e7\u00e3o das bases aqui publicadas podem variar em rela\u00e7\u00e3o ao encontrado naquele Portal.",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2021-09-22-132609.741362logo-portal-transparencia-df-dados-abertos-small2.png",
+                "title": "Portal da Transpar\u00eancia",
+                "id": "109ddc5c-0ce5-430c-8fc3-c950d025303f",
+                "name": "portal-da-transparencia-do-distrito-federal"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "HTML",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "[Portal da Transpar\u00eancia] Patrim\u00f4nio - Bens m\u00f3veis por \u00f3rg\u00e3o",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Or\u00e7amento",
+                "description": "Agrupamento para os dados relacionados a OR\u00c7AMENTO",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172109.575244orcamento.svg",
+                "title": "Or\u00e7amento",
+                "id": "66d8fca3-e6d2-4e9b-aa86-a55b457967bc",
+                "name": "orcamento"
+            },
+            {
+                "display_name": "Portal da Transpar\u00eancia",
+                "description": "Re\u00fane as bases de dados que s\u00e3o disponibilizadas no Portal da Transpar\u00eancia do Distrito Federal. As frequ\u00eancias de atualiza\u00e7\u00e3o das bases aqui publicadas podem variar em rela\u00e7\u00e3o ao encontrado naquele Portal.",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2021-09-22-132609.741362logo-portal-transparencia-df-dados-abertos-small2.png",
+                "title": "Portal da Transpar\u00eancia",
+                "id": "109ddc5c-0ce5-430c-8fc3-c950d025303f",
+                "name": "portal-da-transparencia-do-distrito-federal"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "[Portal da Transpar\u00eancia] Receitas previstas e realizadas da Administra\u00e7\u00e3o P\u00fablica do Distrito Federal.",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Or\u00e7amento",
+                "description": "Agrupamento para os dados relacionados a OR\u00c7AMENTO",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172109.575244orcamento.svg",
+                "title": "Or\u00e7amento",
+                "id": "66d8fca3-e6d2-4e9b-aa86-a55b457967bc",
+                "name": "orcamento"
+            },
+            {
+                "display_name": "Portal da Transpar\u00eancia",
+                "description": "Re\u00fane as bases de dados que s\u00e3o disponibilizadas no Portal da Transpar\u00eancia do Distrito Federal. As frequ\u00eancias de atualiza\u00e7\u00e3o das bases aqui publicadas podem variar em rela\u00e7\u00e3o ao encontrado naquele Portal.",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2021-09-22-132609.741362logo-portal-transparencia-df-dados-abertos-small2.png",
+                "title": "Portal da Transpar\u00eancia",
+                "id": "109ddc5c-0ce5-430c-8fc3-c950d025303f",
+                "name": "portal-da-transparencia-do-distrito-federal"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "[Portal da Transpar\u00eancia] Remunera\u00e7\u00e3o dos Servidores",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            },
+            {
+                "display_name": "Or\u00e7amento",
+                "description": "Agrupamento para os dados relacionados a OR\u00c7AMENTO",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172109.575244orcamento.svg",
+                "title": "Or\u00e7amento",
+                "id": "66d8fca3-e6d2-4e9b-aa86-a55b457967bc",
+                "name": "orcamento"
+            },
+            {
+                "display_name": "Portal da Transpar\u00eancia",
+                "description": "Re\u00fane as bases de dados que s\u00e3o disponibilizadas no Portal da Transpar\u00eancia do Distrito Federal. As frequ\u00eancias de atualiza\u00e7\u00e3o das bases aqui publicadas podem variar em rela\u00e7\u00e3o ao encontrado naquele Portal.",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2021-09-22-132609.741362logo-portal-transparencia-df-dados-abertos-small2.png",
+                "title": "Portal da Transpar\u00eancia",
+                "id": "109ddc5c-0ce5-430c-8fc3-c950d025303f",
+                "name": "portal-da-transparencia-do-distrito-federal"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "HTML",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "[Portal da Transpar\u00eancia] Servidores - Cadastro de Expuls\u00f5es",
+        "Organiza\u00e7\u00e3o": "CGDF - Controladoria-Geral do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            },
+            {
+                "display_name": "Portal da Transpar\u00eancia",
+                "description": "Re\u00fane as bases de dados que s\u00e3o disponibilizadas no Portal da Transpar\u00eancia do Distrito Federal. As frequ\u00eancias de atualiza\u00e7\u00e3o das bases aqui publicadas podem variar em rela\u00e7\u00e3o ao encontrado naquele Portal.",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2021-09-22-132609.741362logo-portal-transparencia-df-dados-abertos-small2.png",
+                "title": "Portal da Transpar\u00eancia",
+                "id": "109ddc5c-0ce5-430c-8fc3-c950d025303f",
+                "name": "portal-da-transparencia-do-distrito-federal"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "[Portal da Transpar\u00eancia] Servidores por \u00d3rg\u00e3o",
+        "Organiza\u00e7\u00e3o": "ECONOMIA - Secretaria de Estado de Economia",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            },
+            {
+                "display_name": "Portal da Transpar\u00eancia",
+                "description": "Re\u00fane as bases de dados que s\u00e3o disponibilizadas no Portal da Transpar\u00eancia do Distrito Federal. As frequ\u00eancias de atualiza\u00e7\u00e3o das bases aqui publicadas podem variar em rela\u00e7\u00e3o ao encontrado naquele Portal.",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2021-09-22-132609.741362logo-portal-transparencia-df-dados-abertos-small2.png",
+                "title": "Portal da Transpar\u00eancia",
+                "id": "109ddc5c-0ce5-430c-8fc3-c950d025303f",
+                "name": "portal-da-transparencia-do-distrito-federal"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "HTML",
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Programa Adote uma Nascente",
+        "Organiza\u00e7\u00e3o": "IBRAM - Instituto do Meio Ambiente e dos Recursos H\u00eddricos do Distrito Federal \u2013 Bras\u00edlia Ambiental",
+        "Grupos": [
+            {
+                "display_name": "Meio Ambiente",
+                "description": "",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-12-05-143316.318185meio-ambeiente.svg",
+                "title": "Meio Ambiente",
+                "id": "ad271f29-8744-4007-8cea-aaaa0c837a79",
+                "name": "meio-ambiente"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "SHP"
+        ]
+    },
+    {
+        "Pacote": "CENTRAL DE APROVA\u00c7\u00c3O DE PROJETOS - CAP",
+        "Organiza\u00e7\u00e3o": "SEGETH - Secretaria de Estado de Gest\u00e3o do Territ\u00f3rio e Habita\u00e7\u00e3o",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "XLSX"
+        ]
+    },
+    {
+        "Pacote": "SECID - Quiosques e Trailers",
+        "Organiza\u00e7\u00e3o": "CIDADES - Secretaria de Estado das Cidades do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Plano de Dados Abertos - IPREV",
+        "Organiza\u00e7\u00e3o": "IPREV - Instituto de Previd\u00eancia dos Servidores do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Planos de Dados Abertos",
+                "description": "Agrupamento dos Planos de Dados Abertos publicados no Portal ",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-11-20-203617.518111plano.svg",
+                "title": "Planos de Dados Abertos",
+                "id": "c445445a-8ba1-4144-b88a-96ccc163beca",
+                "name": "plano-de-dados-abertos"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Rela\u00e7\u00e3o de Leiloeiros Habilitados",
+        "Organiza\u00e7\u00e3o": "JUCIS-DF - Junta Comercial, Industrial e Servi\u00e7os do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "TXT"
+        ]
+    },
+    {
+        "Pacote": "Rela\u00e7\u00e3o de Tradutores P\u00fablicos Habilitados",
+        "Organiza\u00e7\u00e3o": "JUCIS-DF - Junta Comercial, Industrial e Servi\u00e7os do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "TXT"
+        ]
+    },
+    {
+        "Pacote": "RELAT\u00d3RIO DE PRODUTIVIDADE - ACUMULADO 2021 - PMDF",
+        "Organiza\u00e7\u00e3o": "PMDF - Pol\u00edcia Militar do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "RELAT\u00d3RIOS MENSAIS DE PRODUTIVIDADE DE 2022 - PMDF",
+        "Organiza\u00e7\u00e3o": "PMDF - Pol\u00edcia Militar do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "RELAT\u00d3RIOS MENSAIS DE PRODUTIVIDADE DE 2021 - PMDF",
+        "Organiza\u00e7\u00e3o": "PMDF - Pol\u00edcia Militar do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "RELAT\u00d3RIOS MENSAIS DE PRODUTIVIDADE DE 2023 - PMDF",
+        "Organiza\u00e7\u00e3o": "PMDF - Pol\u00edcia Militar do Distrito Federal",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Sinaliza\u00e7\u00e3o vertical e horizontal por regi\u00e3o administrativa nas vias urbanas do Distrito Federal",
+        "Organiza\u00e7\u00e3o": "DETRAN-DF - Departamento de Tr\u00e2nsito do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Sistema de Administra\u00e7\u00e3o da Manuten\u00e7\u00e3o da Malha Rodovi\u00e1ria",
+        "Organiza\u00e7\u00e3o": "DER - Departamento de Estradas de Rodagem",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://www.dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Sistema Rodovi\u00e1rio do Distrito Federal - SRDF",
+        "Organiza\u00e7\u00e3o": "DER - Departamento de Estradas de Rodagem",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Termos de Coopera\u00e7\u00e3o T\u00e9cnica da FJZB em andamento",
+        "Organiza\u00e7\u00e3o": "FJZB - Funda\u00e7\u00e3o Jardim Zool\u00f3gico de Bras\u00edlia ",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "ODT",
+            "CSV",
+            "XLSX"
+        ]
+    },
+    {
+        "Pacote": "Tipos de infra\u00e7\u00f5es cometidas nas vias urbanas do Distrito Federal",
+        "Organiza\u00e7\u00e3o": "DETRAN-DF - Departamento de Tr\u00e2nsito do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Mobilidade",
+                "description": "Agrupamento para os dados relacionados ao TRANSPORTE P\u00daBLICO e MOBILIDADE",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144536.414276mobilidade.svg",
+                "title": "Mobilidade",
+                "id": "58b0a92c-1817-48f2-ba8f-b0fbb5aafe43",
+                "name": "mobilidade"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Viagens feitas com o sistema de bicicletas compartilhadas do Distrito Federal",
+        "Organiza\u00e7\u00e3o": "Secretaria de Estado de Transporte e Mobilidade",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "ODS"
+        ]
+    },
+    {
+        "Pacote": "Viagens Institucionais",
+        "Organiza\u00e7\u00e3o": "CM - Casa Militar do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Viol\u00eancia contra a mulher no DF",
+        "Organiza\u00e7\u00e3o": "SSP - Secretaria de Estado de Seguran\u00e7a P\u00fablica do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Seguran\u00e7a",
+                "description": "Agrupamento para os dados relacionados \u00e0 SEGURAN\u00c7A P\u00daBLICA",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144711.992134seguranca.svg",
+                "title": "Seguran\u00e7a",
+                "id": "7e1d0428-a806-49f9-9591-e94ce4ec6620",
+                "name": "seguranca"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "PDF"
+        ]
+    },
+    {
+        "Pacote": "Viol\u00eancia contra a pessoa idosa - Segundo a Lei n\u00ba10.741/2003 \"Estatuto do Idoso\"",
+        "Organiza\u00e7\u00e3o": "SSP - Secretaria de Estado de Seguran\u00e7a P\u00fablica do Distrito Federal",
+        "Grupos": [
+            {
+                "display_name": "Seguran\u00e7a",
+                "description": "Agrupamento para os dados relacionados \u00e0 SEGURAN\u00c7A P\u00daBLICA",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-144711.992134seguranca.svg",
+                "title": "Seguran\u00e7a",
+                "id": "7e1d0428-a806-49f9-9591-e94ce4ec6620",
+                "name": "seguranca"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Visitantes pagantes do Zool\u00f3gico de Bras\u00edlia",
+        "Organiza\u00e7\u00e3o": "FJZB - Funda\u00e7\u00e3o Jardim Zool\u00f3gico de Bras\u00edlia ",
+        "Grupos": [
+            {
+                "display_name": "Governo",
+                "description": "Agrupamento para os dados relacionados \u00e0 GEST\u00c3O GOVERNAMENTAL",
+                "image_display_url": "http://dados.df.gov.br/uploads/group/2017-06-14-172339.504065gov.svg",
+                "title": "Governo",
+                "id": "f9d5555a-1c8e-4960-ac03-088286569e2c",
+                "name": "governo"
+            }
+        ],
+        "Formatos dispon\u00edveis": [
+            "CSV",
+            "PDF",
+            "XLS",
+            "XLSX"
+        ]
+    },
+    {
+        "Pacote": "Visitas \u00e0 Transitol\u00e2ndia",
+        "Organiza\u00e7\u00e3o": "DER - Departamento de Estradas de Rodagem",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    },
+    {
+        "Pacote": "Volume Di\u00e1rio de Tr\u00e1fego",
+        "Organiza\u00e7\u00e3o": "DER - Departamento de Estradas de Rodagem",
+        "Grupos": [],
+        "Formatos dispon\u00edveis": [
+            "CSV"
+        ]
+    }
+]
